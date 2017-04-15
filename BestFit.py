@@ -27,6 +27,7 @@ def find_best_fit(alist,p):
 
 
 def process_processes():
+    """ Iterate through every process """
     for i,p in enumerate(processes):
         print("Finding best fit for process number {} with value of {}".format(i+1, p))
         remainders = []

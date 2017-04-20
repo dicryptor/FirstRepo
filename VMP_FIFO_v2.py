@@ -1,4 +1,3 @@
-import queue
 import random
 
 rand_list = random.sample(range(10), 6) # Random numbers to test VMP

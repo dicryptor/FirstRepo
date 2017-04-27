@@ -144,17 +144,17 @@ o888o        o888o 8""88888P'   `Y8bood8P'  o888ooooood8 8""88888P'
     art['taurus'] = """
 ooooooooooooo       .o.       ooooo     ooo ooooooooo.   ooooo     ooo  .oooooo..o
 8'   888   `8      .888.      `888'     `8' `888   `Y88. `888'     `8' d8P'    `Y8
-    888          .8"888.      888       8   888   .d88'  888       8  Y88bo.
-    888         .8' `888.     888       8   888ooo88P'   888       8   `"Y8888o.
-    888        .88ooo8888.    888       8   888`88b.     888       8       `"Y88b
-    888       .8'     `888.   `88.    .8'   888  `88b.   `88.    .8'  oo     .d8P
-   o888o     o88o     o8888o    `YbodP'    o888o  o888o    `YbodP'    8""88888P'
+     888          .8"888.      888       8   888   .d88'  888       8  Y88bo.
+     888         .8' `888.     888       8   888ooo88P'   888       8   `"Y8888o.
+     888        .88ooo8888.    888       8   888`88b.     888       8       `"Y88b
+     888       .8'     `888.   `88.    .8'   888  `88b.   `88.    .8'  oo     .d8P
+    o888o     o88o     o8888o    `YbodP'    o888o  o888o    `YbodP'    8""88888P'
 
 """
 
     art['gemini'] = """
- .oooooo.    oooooooooooo ooo        ooooo ooooo ooooo      ooo ooooo
-d8P'  `Y8b   `888'     `8 `88.       .888' `888' `888b.     `8' `888'
+  .oooooo.    oooooooooooo ooo        ooooo ooooo ooooo      ooo ooooo
+ d8P'  `Y8b   `888'     `8 `88.       .888' `888' `888b.     `8' `888'
 888            888          888b     d'888   888   8 `88b.    8   888
 888            888oooo8     8 Y88. .P  888   888   8   `88b.  8   888
 888     ooooo  888    "     8  `888'   888   888   8     `88b.8   888
@@ -164,8 +164,8 @@ d8P'  `Y8b   `888'     `8 `88.       .888' `888' `888b.     `8' `888'
 """
 
     art['cancer'] = """
- .oooooo.         .o.       ooooo      ooo   .oooooo.   oooooooooooo ooooooooo.
-d8P'  `Y8b       .888.      `888b.     `8'  d8P'  `Y8b  `888'     `8 `888   `Y88.
+  .oooooo.         .o.       ooooo      ooo   .oooooo.   oooooooooooo ooooooooo.
+ d8P'  `Y8b       .888.      `888b.     `8'  d8P'  `Y8b  `888'     `8 `888   `Y88.
 888              .8"888.      8 `88b.    8  888           888          888   .d88'
 888             .8' `888.     8   `88b.  8  888           888oooo8     888ooo88P'
 888            .88ooo8888.    8     `88b.8  888           888    "     888`88b.

@@ -1,3 +1,8 @@
+; Print alphabets number of times defined by user input
+; Compile with: nasm -f elf task3c.asm
+; Link with (64 bit systems require elf_i386 option): ld -m elf_i386 task3c.o -o task3c
+; Run with: ./task3c
+
 SYS_EXIT        equ     1
 SYS_READ        equ     3
 SYS_WRITE       equ     4

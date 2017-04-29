@@ -1,52 +1,41 @@
-/* Write a program to compare two files, printing the first line where
- * they differ.
- */
+#include <fcntl.h>
+#include <stdlib.h>
+#include <unistd.h>
+#include <stdio.h>
+#include <string.h>
 
-#include<stdio.h>
+#define BUF_SIZE 500
 
 int main(int argc, char *argv[]) {
     FILE *fp1, *fp2;
-    void filecmp(FILE *, FILE *);
+    char buf1[BUF_SIZE], buf2[BUF_SIZE];
+    int cmp;
 
-    if (argc == 1)
-    {
-        /* no args; copy standard input */
-        printf("Please provide two files");
+    if (argc < 3) {
+        printf("Please provide two files\n");
         return 1;
     }
     else
         while (--argc > 0) {
             if ((fp1 = fopen(argv[1], "r")) == NULL) {
-                printf("cat: can't open %s\n", *argv);
+                printf("Can't open %s\n", argv[1]);
                 return 1;
             }
 
             if ((fp2 = fopen(argv[2], "r")) == NULL) {
-                printf("cat: can't open %s\n", *argv);
+                printf("Can't open %s\n", argv[2]);
                 return 1;
             }
-            filecmp(fp1, fp2);
-            fclose(fp1);
-            fclose(fp2);
+        }
+    while(!feof(fp1) && !feof(fp2)){
+        fgets(buf1, BUF_SIZE, fp1);
+        fgets(buf2, BUF_SIZE, fp2);
+        if (strcmp(buf1, buf2) != 0){
+            printf("file '%s' and file '%s' don't match\n", argv[1], argv[2]);
+            break;
         }
 
-    return 0;
-}
-
-
-void filecmp(FILE *fp1, FILE *fp2)
-{
-    int f1, f2;
-    while (1) {
-        if ((f1 = getc(fp1)) == EOF)
-            break;
-        if ((f2 = getc(fp2)) == EOF)
-            break;
-
-        if (f1 != f2) {
-            putchar(f1);
-            putchar(f2);
-            break;
-        }
     }
-}
+    fclose(fp1);
+    fclose(fp2);
+    return 0;

@@ -1,0 +1,66 @@
+Script started on Sun 30 Apr 2017 11:08:07 AM
+]0;dicryptor@dicryptor-VirtualBox ~[01;32mdicryptor@dicryptor-VirtualBox[00m [01;34m~ $[00m pwd
+/home/dicryptor
+]0;dicryptor@dicryptor-VirtualBox ~[01;32mdicryptor@dicryptor-VirtualBox[00m [01;34m~ $[00m ls -la
+total 280
+drwxr-xr-x 29 dicryptor dicryptor  4096 Apr 30 11:07 [0m[01;34m.[0m
+drwxr-xr-x  3 root      root       4096 Mar 25 10:05 [01;34m..[0m
+-rw-r--r--  1 dicryptor dicryptor  1646 Apr  9 13:01 03ThePeanutsMovie.txt
+-rwx------  1 dicryptor dicryptor  1646 Apr 29 10:20 [01;32margo.txt[0m
+-rw-rw-r--  1 dicryptor dicryptor   427 Apr  2 13:09 aries_art
+-rwxrwxr-x  1 dicryptor dicryptor  2126 Apr  2 13:17 [01;32mart_test.sh[0m
+drwxrwxr-x  3 dicryptor dicryptor  4096 Apr 27 15:40 [01;34massembly[0m
+drwxrwxr-x  6 dicryptor dicryptor  4096 Apr 27 15:57 [01;34massignment1[0m
+-rw-------  1 dicryptor dicryptor 36036 Apr 27 20:07 .bash_history
+-rw-r--r--  1 dicryptor dicryptor   220 Mar 25 10:05 .bash_logout
+-rw-r--r--  1 dicryptor dicryptor  4000 Mar 25 10:05 .bashrc
+-rwxr-xr-x  1 dicryptor dicryptor    87 Apr 24 13:37 [01;32mbootup.sh[0m
+drwx------  7 dicryptor dicryptor  4096 Apr 24 15:18 [01;34m.cache[0m
+drwxr-xr-x  2 dicryptor dicryptor  4096 Apr 30 02:22 [01;34mc_buffer[0m
+drwxr-xr-x  3 dicryptor dicryptor  4096 Apr 27 22:29 [01;34m.cinnamon[0m
+drwxr-xr-x 15 dicryptor dicryptor  4096 Apr 24 15:18 [01;34m.config[0m
+drwx------  3 dicryptor dicryptor  4096 Mar 25 10:09 [01;34m.dbus[0m
+drwxr-xr-x  2 dicryptor dicryptor  4096 Mar 25 10:09 [01;34mDesktop[0m
+-rw-------  1 dicryptor dicryptor     2 Apr 27 22:29 .dmrc
+-rw-------  1 dicryptor dicryptor     2 Mar 25 10:12 .dmrc.1IN0XY
+-rw-------  1 dicryptor dicryptor     2 Apr 24 15:07 .dmrc.JZPNYY
+drwxr-xr-x  2 dicryptor dicryptor  4096 Mar 25 10:09 [01;34mDocuments[0m
+drwxr-xr-x  4 dicryptor dicryptor  4096 Apr 27 16:19 [01;34mDownloads[0m
+drwx------  3 dicryptor dicryptor  4096 Mar 25 11:21 [01;34m.emacs.d[0m
+drwx------  2 dicryptor dicryptor  4096 Apr  7 22:15 [01;34m.gconf[0m
+-rw-r-----  1 dicryptor dicryptor     0 Mar 25 10:20 .gksu.lock
+-rw-------  1 dicryptor dicryptor 10098 Apr 27 22:29 .ICEauthority
+drwxr-xr-x  3 dicryptor dicryptor  4096 Mar 25 10:09 [01;34m.linuxmint[0m
+drwxr-xr-x  5 dicryptor dicryptor  4096 Mar 25 11:05 [01;34m.local[0m
+drwxr-xr-x  3 dicryptor dicryptor  4096 Mar 25 10:05 [01;34m.mozilla[0m
+drwxr-xr-x  2 dicryptor dicryptor  4096 Mar 25 10:09 [01;34mMusic[0m
+drwxr-xr-x  2 dicryptor dicryptor  4096 Mar 25 11:14 [01;34m.nano[0m
+-rw-r--r--  1 dicryptor dicryptor     0 Apr  7 22:07 .odbc.ini
+drwxr-xr-x  2 dicryptor dicryptor  4096 Mar 25 10:09 [01;34mPictures[0m
+-rw-r--r--  1 dicryptor dicryptor   655 Mar 25 10:05 .profile
+drwxr-xr-x  2 dicryptor dicryptor  4096 Mar 25 10:09 [01;34mPublic[0m
+drwxr-xr-x  2 dicryptor dicryptor  4096 Apr  7 23:00 [01;34m__pycache__[0m
+-rw-------  1 dicryptor dicryptor   895 Apr  7 22:59 .python_history
+-rw-r--r--  1 root      root         66 Apr 24 13:27 .selected_editor
+drwxr-xr-x  2 dicryptor dicryptor  4096 Mar 25 11:16 [01;34m.ssh[0m
+-rw-r--r--  1 dicryptor dicryptor     0 Mar 25 10:09 .sudo_as_admin_successful
+drwx------  2 dicryptor dicryptor  4096 Mar 25 10:22 [01;34m.synaptic[0m
+drwxrwxr-x  2 dicryptor dicryptor  4096 Apr 30 11:08 [01;34mtask2[0m
+-rwxrwxr-x  1 dicryptor dicryptor   352 Apr 27 15:54 [01;32mtask2.sh[0m
+drwxr-xr-x  2 dicryptor dicryptor  4096 Apr 29 09:32 [01;34mtask3[0m
+drwxrwxr-x  2 dicryptor dicryptor  4096 Apr 27 16:19 [01;34mtask4[0m
+drwxr-xr-x  2 dicryptor dicryptor  4096 Mar 25 10:09 [01;34mTemplates[0m
+-rw-r-----  1 dicryptor dicryptor     5 Apr 27 22:29 .vboxclient-clipboard.pid
+-rw-r-----  1 dicryptor dicryptor     5 Apr 27 22:29 .vboxclient-display.pid
+-rw-r-----  1 dicryptor dicryptor     5 Apr 27 22:29 .vboxclient-draganddrop.pid
+-rw-r-----  1 dicryptor dicryptor     5 Apr 27 22:29 .vboxclient-seamless.pid
+drwxr-xr-x  2 dicryptor dicryptor  4096 Mar 25 10:09 [01;34mVideos[0m
+-rw-------  1 dicryptor dicryptor   180 Apr 27 22:29 .Xauthority
+-rw-r--r--  1 dicryptor dicryptor  9383 Apr 29 10:12 .xsession-errors
+-rw-rw-r--  1 dicryptor dicryptor  9989 Apr 27 16:19 zodiac.py
+-rwxrwxr-x  1 dicryptor dicryptor 11049 Apr  9 11:25 [01;32mzodiac.sh[0m
+]0;dicryptor@dicryptor-VirtualBox ~[01;32mdicryptor@dicryptor-VirtualBox[00m [01;34m~ $[00m 
+]0;dicryptor@dicryptor-VirtualBox ~[01;32mdicryptor@dicryptor-VirtualBox[00m [01;34m~ $[00m exit
+exit
+
+Script done on Sun 30 Apr 2017 11:08:21 AM

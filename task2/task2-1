@@ -1,0 +1,1184 @@
+Script started on Thu 27 Apr 2017 03:56:34 PM
+]0;dicryptor@dicryptor-VirtualBox ~[01;32mdicryptor@dicryptor-VirtualBox[00m [01;34m~ $[00m ls -la
+total 304
+drwxr-xr-x 26 dicryptor dicryptor  4096 Apr 27 15:56 [0m[01;34m.[0m
+drwxr-xr-x  3 root      root       4096 Mar 25 10:05 [01;34m..[0m
+-rw-r--r--  1 dicryptor dicryptor  1646 Apr  9 13:01 03ThePeanutsMovie.txt
+-rw-rw-r--  1 dicryptor dicryptor   427 Apr  2 13:09 aries_art
+-rwxrwxr-x  1 dicryptor dicryptor  2126 Apr  2 13:17 [01;32mart_test.sh[0m
+-rw-r--r--  1 dicryptor dicryptor   360 Apr 14 19:10 assem2.asm
+-rw-r--r--  1 dicryptor dicryptor   880 Apr  9 13:46 assem2.o
+drwxrwxr-x  3 dicryptor dicryptor  4096 Apr 27 15:40 [01;34massembly[0m
+drwxrwxr-x  5 dicryptor dicryptor  4096 Apr 27 15:55 [01;34massignment1[0m
+-rw-------  1 dicryptor dicryptor 34515 Apr 27 15:56 .bash_history
+-rw-r--r--  1 dicryptor dicryptor   220 Mar 25 10:05 .bash_logout
+-rw-r--r--  1 dicryptor dicryptor  4000 Mar 25 10:05 .bashrc
+-rwxr-xr-x  1 dicryptor dicryptor    87 Apr 24 13:37 [01;32mbootup.sh[0m
+drwx------  7 dicryptor dicryptor  4096 Apr 24 15:18 [01;34m.cache[0m
+drwxr-xr-x  3 dicryptor dicryptor  4096 Apr 27 13:26 [01;34m.cinnamon[0m
+drwxr-xr-x 15 dicryptor dicryptor  4096 Apr 24 15:18 [01;34m.config[0m
+-rw-r--r--  1 dicryptor dicryptor    99 Apr  7 22:57 dbconfig.ini
+-rw-r--r--  1 dicryptor dicryptor   741 Apr  8 00:41 db_get_devices_registered.py
+-rw-r--r--  1 dicryptor dicryptor  1094 Apr  7 23:33 db_test.py
+drwx------  3 dicryptor dicryptor  4096 Mar 25 10:09 [01;34m.dbus[0m
+drwxr-xr-x  2 dicryptor dicryptor  4096 Mar 25 10:09 [01;34mDesktop[0m
+-rw-------  1 dicryptor dicryptor     2 Apr 27 13:26 .dmrc
+-rw-------  1 dicryptor dicryptor     2 Mar 25 10:12 .dmrc.1IN0XY
+-rw-------  1 dicryptor dicryptor     2 Apr 24 15:07 .dmrc.JZPNYY
+drwxr-xr-x  2 dicryptor dicryptor  4096 Mar 25 10:09 [01;34mDocuments[0m
+drwxr-xr-x  4 dicryptor dicryptor  4096 Apr 20 17:09 [01;34mDownloads[0m
+drwx------  3 dicryptor dicryptor  4096 Mar 25 11:21 [01;34m.emacs.d[0m
+drwx------  2 dicryptor dicryptor  4096 Apr  7 22:15 [01;34m.gconf[0m
+-rw-r-----  1 dicryptor dicryptor     0 Mar 25 10:20 .gksu.lock
+-rw-------  1 dicryptor dicryptor  9350 Apr 27 13:26 .ICEauthority
+drwxr-xr-x  3 dicryptor dicryptor  4096 Mar 25 10:09 [01;34m.linuxmint[0m
+-rw-rw-r--  1 dicryptor dicryptor    26 Apr  9 13:29 list.txt
+drwxr-xr-x  5 dicryptor dicryptor  4096 Mar 25 11:05 [01;34m.local[0m
+drwxr-xr-x  3 dicryptor dicryptor  4096 Mar 25 10:05 [01;34m.mozilla[0m
+drwxr-xr-x  2 dicryptor dicryptor  4096 Mar 25 10:09 [01;34mMusic[0m
+-rw-rw-r--  1 dicryptor dicryptor    12 Mar 25 11:25 myfile.txt
+drwxr-xr-x  2 dicryptor dicryptor  4096 Mar 25 11:14 [01;34m.nano[0m
+-rw-rw-r--  1 dicryptor dicryptor    26 Apr  9 13:30 newlist.txt
+-rw-r--r--  1 dicryptor dicryptor     0 Apr  7 22:07 .odbc.ini
+drwxr-xr-x  2 dicryptor dicryptor  4096 Mar 25 10:09 [01;34mPictures[0m
+-rw-r--r--  1 dicryptor dicryptor   655 Mar 25 10:05 .profile
+drwxr-xr-x  2 dicryptor dicryptor  4096 Mar 25 10:09 [01;34mPublic[0m
+drwxr-xr-x  2 dicryptor dicryptor  4096 Apr  7 23:00 [01;34m__pycache__[0m
+-rw-------  1 dicryptor dicryptor   895 Apr  7 22:59 .python_history
+-rw-r--r--  1 dicryptor dicryptor   595 Apr  7 22:42 python_mysql_connector.py
+-rw-r--r--  1 dicryptor dicryptor   783 Apr  7 22:59 python_mysql_dbconfig.py
+-rw-rw-r--  1 dicryptor dicryptor    89 Apr  3 07:35 python_zodiac.py
+-rw-r--r--  1 root      root         66 Apr 24 13:27 .selected_editor
+drwxr-xr-x  2 dicryptor dicryptor  4096 Mar 25 11:16 [01;34m.ssh[0m
+-rw-r--r--  1 dicryptor dicryptor     0 Mar 25 10:09 .sudo_as_admin_successful
+drwx------  2 dicryptor dicryptor  4096 Mar 25 10:22 [01;34m.synaptic[0m
+-rw-rw-r--  1 dicryptor dicryptor     0 Apr 27 15:56 task2
+-rwxrwxr-x  1 dicryptor dicryptor   352 Apr 27 15:54 [01;32mtask2.sh[0m
+drwxr-xr-x  2 dicryptor dicryptor  4096 Apr 27 15:42 [01;34mtask3[0m
+drwxr-xr-x  2 dicryptor dicryptor  4096 Mar 25 10:09 [01;34mTemplates[0m
+-rw-r-----  1 dicryptor dicryptor     5 Apr 27 13:26 .vboxclient-clipboard.pid
+-rw-r-----  1 dicryptor dicryptor     5 Apr 27 13:26 .vboxclient-display.pid
+-rw-r-----  1 dicryptor dicryptor     5 Apr 27 13:26 .vboxclient-draganddrop.pid
+-rw-r-----  1 dicryptor dicryptor     5 Apr 27 13:26 .vboxclient-seamless.pid
+drwxr-xr-x  2 dicryptor dicryptor  4096 Mar 25 10:09 [01;34mVideos[0m
+-rw-------  1 dicryptor dicryptor   180 Apr 27 13:26 .Xauthority
+-rw-r--r--  1 dicryptor dicryptor  5309 Apr 27 15:53 .xsession-errors
+-rw-r--r--  1 dicryptor dicryptor 10059 Apr  9 10:29 zodiac.py
+-rwxrwxr-x  1 dicryptor dicryptor 11049 Apr  9 11:25 [01;32mzodiac.sh[0m
+]0;dicryptor@dicryptor-VirtualBox ~[01;32mdicryptor@dicryptor-VirtualBox[00m [01;34m~ $[00m 
+]0;dicryptor@dicryptor-VirtualBox ~[01;32mdicryptor@dicryptor-VirtualBox[00m [01;34m~ $[00m 
+]0;dicryptor@dicryptor-VirtualBox ~[01;32mdicryptor@dicryptor-VirtualBox[00m [01;34m~ $[00m 
+]0;dicryptor@dicryptor-VirtualBox ~[01;32mdicryptor@dicryptor-VirtualBox[00m [01;34m~ $[00m sudo find / -name "*.cc" -o -name "*.txt"
+/lib/firmware/ath10k/QCA9984/hw1.0/notice_ath10k_firmware-5.txt
+/lib/firmware/ath10k/QCA99X0/hw2.0/notice_ath10k_firmware-5.txt
+/lib/firmware/ath10k/QCA4019/hw1.0/notice_ath10k_firmware-5.txt
+/lib/firmware/ath10k/QCA9888/hw2.0/notice_ath10k_firmware-5.txt
+/lib/firmware/ath10k/QCA988X/hw2.0/notice_ath10k_firmware-5.txt
+/lib/firmware/ath10k/QCA988X/hw2.0/notice_ath10k_firmware-4.txt
+/lib/firmware/ath10k/QCA6174/hw2.1/notice_ath10k_firmware-5.txt
+/lib/firmware/ath10k/QCA6174/hw3.0/notice_ath10k_firmware-4.txt
+/lib/firmware/ath10k/QCA9887/hw1.0/notice_ath10k_firmware-5.txt
+/lib/firmware/ath10k/QCA9377/hw1.0/notice_ath10k_firmware-5.txt
+/lib/firmware/carl9170fw/carlfw/CMakeLists.txt
+/lib/firmware/carl9170fw/CMakeLists.txt
+/lib/firmware/carl9170fw/tools/lib/CMakeLists.txt
+/lib/firmware/carl9170fw/tools/src/CMakeLists.txt
+/lib/firmware/carl9170fw/tools/CMakeLists.txt
+/lib/firmware/carl9170fw/tools/carlu/CMakeLists.txt
+/lib/firmware/carl9170fw/config/CMakeLists.txt
+/lib/firmware/carl9170fw/minifw/CMakeLists.txt
+/lib/firmware/qca/NOTICE.txt
+/home/dicryptor/.config/chromium/chrome_shutdown_ms.txt
+/home/dicryptor/03ThePeanutsMovie.txt
+/home/dicryptor/.local/lib/python2.7/site-packages/pip-9.0.1.dist-info/entry_points.txt
+/home/dicryptor/.local/lib/python2.7/site-packages/pip-9.0.1.dist-info/top_level.txt
+/home/dicryptor/.local/lib/python3.5/site-packages/pip-9.0.1.dist-info/entry_points.txt
+/home/dicryptor/.local/lib/python3.5/site-packages/pip-9.0.1.dist-info/top_level.txt
+/home/dicryptor/assignment1/story.txt
+/home/dicryptor/assignment1/online_stories/story2.txt
+/home/dicryptor/assignment1/online_stories/story_heart.txt
+/home/dicryptor/assignment1/pokemon2.txt
+/home/dicryptor/assignment1/sem_ex.cc
+/home/dicryptor/assignment1/code/helloworld.cc
+/home/dicryptor/myfile.txt
+/home/dicryptor/newlist.txt
+/home/dicryptor/list.txt
+/var/lib/nssdb/pkcs11.txt
+/var/cache/dictionaries-common/ispell-dicts-list.txt
+/usr/lib/python3/dist-packages/oneconf-0.3.9.egg-info/dependency_links.txt
+/usr/lib/python3/dist-packages/oneconf-0.3.9.egg-info/top_level.txt
+/usr/lib/python3/dist-packages/chardet-2.3.0.egg-info/entry_points.txt
+/usr/lib/python3/dist-packages/chardet-2.3.0.egg-info/dependency_links.txt
+/usr/lib/python3/dist-packages/chardet-2.3.0.egg-info/top_level.txt
+/usr/lib/python3/dist-packages/cryptography-1.2.3.egg-info/entry_points.txt
+/usr/lib/python3/dist-packages/cryptography-1.2.3.egg-info/requires.txt
+/usr/lib/python3/dist-packages/cryptography-1.2.3.egg-info/dependency_links.txt
+/usr/lib/python3/dist-packages/cryptography-1.2.3.egg-info/top_level.txt
+/usr/lib/python3/dist-packages/Pillow-3.1.2.egg-info/dependency_links.txt
+/usr/lib/python3/dist-packages/Pillow-3.1.2.egg-info/top_level.txt
+/usr/lib/python3/dist-packages/defer-1.0.6.egg-info/dependency_links.txt
+/usr/lib/python3/dist-packages/defer-1.0.6.egg-info/top_level.txt
+/usr/lib/python3/dist-packages/six-1.10.0.egg-info/dependency_links.txt
+/usr/lib/python3/dist-packages/six-1.10.0.egg-info/top_level.txt
+/usr/lib/python3/dist-packages/urllib3-1.13.1.egg-info/requires.txt
+/usr/lib/python3/dist-packages/urllib3-1.13.1.egg-info/dependency_links.txt
+/usr/lib/python3/dist-packages/urllib3-1.13.1.egg-info/top_level.txt
+/usr/lib/python3/dist-packages/python_debian-0.1.27.egg-info/requires.txt
+/usr/lib/python3/dist-packages/python_debian-0.1.27.egg-info/dependency_links.txt
+/usr/lib/python3/dist-packages/python_debian-0.1.27.egg-info/top_level.txt
+/usr/lib/python3/dist-packages/Mako-1.0.3.egg-info/entry_points.txt
+/usr/lib/python3/dist-packages/Mako-1.0.3.egg-info/requires.txt
+/usr/lib/python3/dist-packages/Mako-1.0.3.egg-info/dependency_links.txt
+/usr/lib/python3/dist-packages/Mako-1.0.3.egg-info/top_level.txt
+/usr/lib/python3/dist-packages/idna-2.0.egg-info/dependency_links.txt
+/usr/lib/python3/dist-packages/idna-2.0.egg-info/top_level.txt
+/usr/lib/python3/dist-packages/thin_client_config_agent-0.8.egg-info/dependency_links.txt
+/usr/lib/python3/dist-packages/thin_client_config_agent-0.8.egg-info/top_level.txt
+/usr/lib/python3/dist-packages/ubuntu_drivers_common-0.0.0.egg-info/entry_points.txt
+/usr/lib/python3/dist-packages/ubuntu_drivers_common-0.0.0.egg-info/dependency_links.txt
+/usr/lib/python3/dist-packages/ubuntu_drivers_common-0.0.0.egg-info/top_level.txt
+/usr/lib/python3/dist-packages/lxml/isoschematron/resources/xsl/iso-schematron-xslt1/readme.txt
+/usr/lib/python3/dist-packages/PyJWT-1.3.0.egg-info/entry_points.txt
+/usr/lib/python3/dist-packages/PyJWT-1.3.0.egg-info/requires.txt
+/usr/lib/python3/dist-packages/PyJWT-1.3.0.egg-info/dependency_links.txt
+/usr/lib/python3/dist-packages/PyJWT-1.3.0.egg-info/top_level.txt
+/usr/lib/python3/dist-packages/lxml-3.5.0.egg-info/requires.txt
+/usr/lib/python3/dist-packages/lxml-3.5.0.egg-info/dependency_links.txt
+/usr/lib/python3/dist-packages/lxml-3.5.0.egg-info/top_level.txt
+/usr/lib/python3/dist-packages/MarkupSafe-0.23.egg-info/dependency_links.txt
+/usr/lib/python3/dist-packages/MarkupSafe-0.23.egg-info/top_level.txt
+/usr/lib/python3/dist-packages/piston_mini_client-0.7.5.egg-info/requires.txt
+/usr/lib/python3/dist-packages/piston_mini_client-0.7.5.egg-info/dependency_links.txt
+/usr/lib/python3/dist-packages/piston_mini_client-0.7.5.egg-info/top_level.txt
+/usr/lib/python3/dist-packages/oauthlib-1.0.3.egg-info/requires.txt
+/usr/lib/python3/dist-packages/oauthlib-1.0.3.egg-info/dependency_links.txt
+/usr/lib/python3/dist-packages/oauthlib-1.0.3.egg-info/top_level.txt
+/usr/lib/python3/dist-packages/setuptools-20.7.0.egg-info/entry_points.txt
+/usr/lib/python3/dist-packages/setuptools-20.7.0.egg-info/dependency_links.txt
+/usr/lib/python3/dist-packages/setuptools-20.7.0.egg-info/top_level.txt
+/usr/lib/python3/dist-packages/dirspec-13.10.egg-info/dependency_links.txt
+/usr/lib/python3/dist-packages/dirspec-13.10.egg-info/top_level.txt
+/usr/lib/python3/dist-packages/requests-2.9.1.egg-info/requires.txt
+/usr/lib/python3/dist-packages/requests-2.9.1.egg-info/dependency_links.txt
+/usr/lib/python3/dist-packages/requests-2.9.1.egg-info/top_level.txt
+/usr/lib/python3/dist-packages/pip-8.1.1.egg-info/entry_points.txt
+/usr/lib/python3/dist-packages/pip-8.1.1.egg-info/requires.txt
+/usr/lib/python3/dist-packages/pip-8.1.1.egg-info/dependency_links.txt
+/usr/lib/python3/dist-packages/pip-8.1.1.egg-info/top_level.txt
+/usr/lib/python3/dist-packages/pyasn1-0.1.9.egg-info/dependency_links.txt
+/usr/lib/python3/dist-packages/pyasn1-0.1.9.egg-info/top_level.txt
+/usr/lib/python2.7/dist-packages/lockfile-0.12.2.egg-info/dependency_links.txt
+/usr/lib/python2.7/dist-packages/lockfile-0.12.2.egg-info/top_level.txt
+/usr/lib/python2.7/dist-packages/oneconf-0.3.9.egg-info/dependency_links.txt
+/usr/lib/python2.7/dist-packages/oneconf-0.3.9.egg-info/top_level.txt
+/usr/lib/python2.7/dist-packages/chardet-2.3.0.egg-info/entry_points.txt
+/usr/lib/python2.7/dist-packages/chardet-2.3.0.egg-info/dependency_links.txt
+/usr/lib/python2.7/dist-packages/chardet-2.3.0.egg-info/top_level.txt
+/usr/lib/python2.7/dist-packages/cryptography-1.2.3.egg-info/entry_points.txt
+/usr/lib/python2.7/dist-packages/cryptography-1.2.3.egg-info/requires.txt
+/usr/lib/python2.7/dist-packages/cryptography-1.2.3.egg-info/dependency_links.txt
+/usr/lib/python2.7/dist-packages/cryptography-1.2.3.egg-info/top_level.txt
+/usr/lib/python2.7/dist-packages/Pillow-3.1.2.egg-info/dependency_links.txt
+/usr/lib/python2.7/dist-packages/Pillow-3.1.2.egg-info/top_level.txt
+/usr/lib/python2.7/dist-packages/configglue-1.1.2.egg-info/requires.txt
+/usr/lib/python2.7/dist-packages/configglue-1.1.2.egg-info/dependency_links.txt
+/usr/lib/python2.7/dist-packages/configglue-1.1.2.egg-info/top_level.txt
+/usr/lib/python2.7/dist-packages/defer-1.0.6.egg-info/SOURCES.txt
+/usr/lib/python2.7/dist-packages/defer-1.0.6.egg-info/dependency_links.txt
+/usr/lib/python2.7/dist-packages/defer-1.0.6.egg-info/top_level.txt
+/usr/lib/python2.7/dist-packages/six-1.10.0.egg-info/dependency_links.txt
+/usr/lib/python2.7/dist-packages/six-1.10.0.egg-info/top_level.txt
+/usr/lib/python2.7/dist-packages/urllib3-1.13.1.egg-info/requires.txt
+/usr/lib/python2.7/dist-packages/urllib3-1.13.1.egg-info/dependency_links.txt
+/usr/lib/python2.7/dist-packages/urllib3-1.13.1.egg-info/top_level.txt
+/usr/lib/python2.7/dist-packages/duplicity-0.7.6.egg-info/requires.txt
+/usr/lib/python2.7/dist-packages/duplicity-0.7.6.egg-info/dependency_links.txt
+/usr/lib/python2.7/dist-packages/duplicity-0.7.6.egg-info/top_level.txt
+/usr/lib/python2.7/dist-packages/service_identity-16.0.0.egg-info/requires.txt
+/usr/lib/python2.7/dist-packages/service_identity-16.0.0.egg-info/dependency_links.txt
+/usr/lib/python2.7/dist-packages/service_identity-16.0.0.egg-info/top_level.txt
+/usr/lib/python2.7/dist-packages/netifaces-0.10.4.egg-info/dependency_links.txt
+/usr/lib/python2.7/dist-packages/netifaces-0.10.4.egg-info/top_level.txt
+/usr/lib/python2.7/dist-packages/python_debian-0.1.27.egg-info/requires.txt
+/usr/lib/python2.7/dist-packages/python_debian-0.1.27.egg-info/dependency_links.txt
+/usr/lib/python2.7/dist-packages/python_debian-0.1.27.egg-info/top_level.txt
+/usr/lib/python2.7/dist-packages/feedparser-5.1.3.egg-info/SOURCES.txt
+/usr/lib/python2.7/dist-packages/feedparser-5.1.3.egg-info/dependency_links.txt
+/usr/lib/python2.7/dist-packages/feedparser-5.1.3.egg-info/top_level.txt
+/usr/lib/python2.7/dist-packages/ipaddress-1.0.16.egg-info/dependency_links.txt
+/usr/lib/python2.7/dist-packages/ipaddress-1.0.16.egg-info/top_level.txt
+/usr/lib/python2.7/dist-packages/Mako-1.0.3.egg-info/entry_points.txt
+/usr/lib/python2.7/dist-packages/Mako-1.0.3.egg-info/requires.txt
+/usr/lib/python2.7/dist-packages/Mako-1.0.3.egg-info/dependency_links.txt
+/usr/lib/python2.7/dist-packages/Mako-1.0.3.egg-info/top_level.txt
+/usr/lib/python2.7/dist-packages/idna-2.0.egg-info/dependency_links.txt
+/usr/lib/python2.7/dist-packages/idna-2.0.egg-info/top_level.txt
+/usr/lib/python2.7/dist-packages/paramiko-1.16.0.egg-info/requires.txt
+/usr/lib/python2.7/dist-packages/paramiko-1.16.0.egg-info/dependency_links.txt
+/usr/lib/python2.7/dist-packages/paramiko-1.16.0.egg-info/top_level.txt
+/usr/lib/python2.7/dist-packages/lxml/isoschematron/resources/xsl/iso-schematron-xslt1/readme.txt
+/usr/lib/python2.7/dist-packages/zope.interface-4.1.3.egg-info/requires.txt
+/usr/lib/python2.7/dist-packages/zope.interface-4.1.3.egg-info/dependency_links.txt
+/usr/lib/python2.7/dist-packages/zope.interface-4.1.3.egg-info/namespace_packages.txt
+/usr/lib/python2.7/dist-packages/zope.interface-4.1.3.egg-info/top_level.txt
+/usr/lib/python2.7/dist-packages/PyJWT-1.3.0.egg-info/entry_points.txt
+/usr/lib/python2.7/dist-packages/PyJWT-1.3.0.egg-info/requires.txt
+/usr/lib/python2.7/dist-packages/PyJWT-1.3.0.egg-info/dependency_links.txt
+/usr/lib/python2.7/dist-packages/PyJWT-1.3.0.egg-info/top_level.txt
+/usr/lib/python2.7/dist-packages/lxml-3.5.0.egg-info/requires.txt
+/usr/lib/python2.7/dist-packages/lxml-3.5.0.egg-info/dependency_links.txt
+/usr/lib/python2.7/dist-packages/lxml-3.5.0.egg-info/top_level.txt
+/usr/lib/python2.7/dist-packages/MarkupSafe-0.23.egg-info/dependency_links.txt
+/usr/lib/python2.7/dist-packages/MarkupSafe-0.23.egg-info/top_level.txt
+/usr/lib/python2.7/dist-packages/pyOpenSSL-0.15.1.egg-info/requires.txt
+/usr/lib/python2.7/dist-packages/pyOpenSSL-0.15.1.egg-info/dependency_links.txt
+/usr/lib/python2.7/dist-packages/pyOpenSSL-0.15.1.egg-info/top_level.txt
+/usr/lib/python2.7/dist-packages/debtags-2.0.egg-info/dependency_links.txt
+/usr/lib/python2.7/dist-packages/debtags-2.0.egg-info/top_level.txt
+/usr/lib/python2.7/dist-packages/Twisted-16.0.0.egg-info/requires.txt
+/usr/lib/python2.7/dist-packages/Twisted-16.0.0.egg-info/dependency_links.txt
+/usr/lib/python2.7/dist-packages/Twisted-16.0.0.egg-info/top_level.txt
+/usr/lib/python2.7/dist-packages/piston_mini_client-0.7.5.egg-info/SOURCES.txt
+/usr/lib/python2.7/dist-packages/piston_mini_client-0.7.5.egg-info/requires.txt
+/usr/lib/python2.7/dist-packages/piston_mini_client-0.7.5.egg-info/dependency_links.txt
+/usr/lib/python2.7/dist-packages/piston_mini_client-0.7.5.egg-info/top_level.txt
+/usr/lib/python2.7/dist-packages/oauthlib-1.0.3.egg-info/requires.txt
+/usr/lib/python2.7/dist-packages/oauthlib-1.0.3.egg-info/dependency_links.txt
+/usr/lib/python2.7/dist-packages/oauthlib-1.0.3.egg-info/top_level.txt
+/usr/lib/python2.7/dist-packages/attrs-15.2.0.egg-info/dependency_links.txt
+/usr/lib/python2.7/dist-packages/attrs-15.2.0.egg-info/top_level.txt
+/usr/lib/python2.7/dist-packages/twisted/internet/iocpreactor/notes.txt
+/usr/lib/python2.7/dist-packages/configobj-5.0.6.egg-info/SOURCES.txt
+/usr/lib/python2.7/dist-packages/configobj-5.0.6.egg-info/requires.txt
+/usr/lib/python2.7/dist-packages/configobj-5.0.6.egg-info/dependency_links.txt
+/usr/lib/python2.7/dist-packages/configobj-5.0.6.egg-info/top_level.txt
+/usr/lib/python2.7/dist-packages/protobuf-2.6.1.egg-info/requires.txt
+/usr/lib/python2.7/dist-packages/protobuf-2.6.1.egg-info/dependency_links.txt
+/usr/lib/python2.7/dist-packages/protobuf-2.6.1.egg-info/namespace_packages.txt
+/usr/lib/python2.7/dist-packages/protobuf-2.6.1.egg-info/top_level.txt
+/usr/lib/python2.7/dist-packages/dirspec-13.10.egg-info/dependency_links.txt
+/usr/lib/python2.7/dist-packages/dirspec-13.10.egg-info/top_level.txt
+/usr/lib/python2.7/dist-packages/requests-2.9.1.egg-info/requires.txt
+/usr/lib/python2.7/dist-packages/requests-2.9.1.egg-info/dependency_links.txt
+/usr/lib/python2.7/dist-packages/requests-2.9.1.egg-info/top_level.txt
+/usr/lib/python2.7/dist-packages/pip-8.1.1.egg-info/entry_points.txt
+/usr/lib/python2.7/dist-packages/pip-8.1.1.egg-info/requires.txt
+/usr/lib/python2.7/dist-packages/pip-8.1.1.egg-info/dependency_links.txt
+/usr/lib/python2.7/dist-packages/pip-8.1.1.egg-info/top_level.txt
+/usr/lib/python2.7/dist-packages/pyasn1-0.1.9.egg-info/dependency_links.txt
+/usr/lib/python2.7/dist-packages/pyasn1-0.1.9.egg-info/top_level.txt
+/usr/lib/python2.7/LICENSE.txt
+/usr/lib/python2.7/lib2to3/PatternGrammar.txt
+/usr/lib/python2.7/lib2to3/Grammar.txt
+/usr/lib/xorg/protocol.txt
+/usr/lib/python3.5/LICENSE.txt
+/usr/lib/python3.5/lib2to3/PatternGrammar.txt
+/usr/lib/python3.5/lib2to3/Grammar.txt
+/usr/lib/python3.5/idlelib/extend.txt
+/usr/lib/python3.5/idlelib/help.txt
+/usr/lib/python3.5/idlelib/HISTORY.txt
+/usr/lib/python3.5/idlelib/TODO.txt
+/usr/lib/python3.5/idlelib/NEWS.txt
+/usr/lib/python3.5/idlelib/CREDITS.txt
+/usr/lib/python3.5/idlelib/README.txt
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/amd64/server/Xusage.txt
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jvm.hprof.txt
+/usr/src/linux-headers-4.4.0-53/scripts/spelling.txt
+/usr/src/linux-headers-4.4.0-53/scripts/kconfig/qconf.cc
+/usr/src/linux-headers-4.4.0-53/arch/sh/include/mach-kfr2r09/mach/partner-jet-setup.txt
+/usr/src/linux-headers-4.4.0-53/arch/sh/include/mach-ecovec24/mach/partner-jet-setup.txt
+/usr/src/linux-headers-4.4.0-53-generic/scripts/spelling.txt
+/usr/src/linux-headers-4.4.0-53-generic/scripts/kconfig/qconf.cc
+/usr/share/bison/glr.cc
+/usr/share/bison/lalr1.cc
+/usr/share/bison/location.cc
+/usr/share/intel-gpu-tools/registers/common_display.txt
+/usr/share/intel-gpu-tools/registers/vlv_dsi.txt
+/usr/share/intel-gpu-tools/registers/chv_pipe_c.txt
+/usr/share/intel-gpu-tools/registers/haswell_other.txt
+/usr/share/intel-gpu-tools/registers/audio_config_haswell_plus.txt
+/usr/share/intel-gpu-tools/registers/audio_debug_haswell_plus.txt
+/usr/share/intel-gpu-tools/registers/vlv_dpio_phy.txt
+/usr/share/intel-gpu-tools/registers/vlv_display_base.txt
+/usr/share/intel-gpu-tools/registers/gen8_other.txt
+/usr/share/intel-gpu-tools/registers/vlv_pipe_a.txt
+/usr/share/intel-gpu-tools/registers/chv_dpio_phy_x2.txt
+/usr/share/intel-gpu-tools/registers/vlv_flisdsi.txt
+/usr/share/intel-gpu-tools/registers/gen7_other.txt
+/usr/share/intel-gpu-tools/registers/gen8_interrupt.txt
+/usr/share/intel-gpu-tools/registers/skl_display.txt
+/usr/share/intel-gpu-tools/registers/vlv_pipe_b.txt
+/usr/share/intel-gpu-tools/registers/chv_dpio_phy_x1.txt
+/usr/share/intel-gpu-tools/registers/chv_display_base.txt
+/usr/share/intel-gpu-tools/registers/gen6_other.txt
+/usr/share/intel-gpu-tools/registers/skl_powerwells.txt
+/usr/share/guile/2.0/guile-procedures.txt
+/usr/share/nux/4.0/Fonts/nuxfont_size_8_bold.txt
+/usr/share/nux/4.0/Fonts/nuxfont_size_8.txt
+/usr/share/cups/doc-root/robots.txt
+/usr/share/gnupg2/help.es.txt
+/usr/share/gnupg2/help.sv.txt
+/usr/share/gnupg2/help.fr.txt
+/usr/share/gnupg2/help.fi.txt
+/usr/share/gnupg2/help.pt_BR.txt
+/usr/share/gnupg2/help.cs.txt
+/usr/share/gnupg2/help.da.txt
+/usr/share/gnupg2/help.hu.txt
+/usr/share/gnupg2/help.nb.txt
+/usr/share/gnupg2/help.eo.txt
+/usr/share/gnupg2/help.pt.txt
+/usr/share/gnupg2/help.zh_TW.txt
+/usr/share/gnupg2/help.ru.txt
+/usr/share/gnupg2/help.ca.txt
+/usr/share/gnupg2/help.sk.txt
+/usr/share/gnupg2/help.et.txt
+/usr/share/gnupg2/help.be.txt
+/usr/share/gnupg2/help.ja.txt
+/usr/share/gnupg2/help.zh_CN.txt
+/usr/share/gnupg2/help.el.txt
+/usr/share/gnupg2/help.gl.txt
+/usr/share/gnupg2/help.id.txt
+/usr/share/gnupg2/help.tr.txt
+/usr/share/gnupg2/help.de.txt
+/usr/share/gnupg2/help.ro.txt
+/usr/share/gnupg2/help.pl.txt
+/usr/share/gnupg2/help.it.txt
+/usr/share/perl/5.22.1/unicore/Blocks.txt
+/usr/share/perl/5.22.1/unicore/SpecialCasing.txt
+/usr/share/perl/5.22.1/unicore/NamedSequences.txt
+/usr/share/perl/5.22.1/Unicode/Collate/keys.txt
+/usr/share/perl/5.22.1/Unicode/Collate/allkeys.txt
+/usr/share/emacs/24.5/etc/publicsuffix.txt
+/usr/share/emacs/24.5/etc/enriched.txt
+/usr/share/emacs/24.5/etc/gnus-tut.txt
+/usr/share/emacs/24.5/etc/rgb.txt
+/usr/share/emacs/24.5/etc/grep.txt
+/usr/share/emacs/24.5/etc/compilation.txt
+/usr/share/command-not-found/priority.txt
+/usr/share/ecryptfs-utils/ecryptfs-mount-private.txt
+/usr/share/X11/rgb.txt
+/usr/share/vlc/lua/http/requests/README.txt
+/usr/share/vim/vim74/doc/help.txt
+/usr/share/libtimezonemap/ui/admin1Codes.txt
+/usr/share/libtimezonemap/ui/countryInfo.txt
+/usr/share/libtimezonemap/ui/cities15000.txt
+/usr/share/snmp/mibs/UCD-SNMP-MIB.txt
+/usr/share/snmp/mibs/IANA-LANGUAGE-MIB.txt
+/usr/share/snmp/mibs/NET-SNMP-EXTEND-MIB.txt
+/usr/share/snmp/mibs/SNMP-TLS-TM-MIB.txt
+/usr/share/snmp/mibs/UCD-IPFWACC-MIB.txt
+/usr/share/snmp/mibs/IANAifType-MIB.txt
+/usr/share/snmp/mibs/RFC-1215.txt
+/usr/share/snmp/mibs/NET-SNMP-MONITOR-MIB.txt
+/usr/share/snmp/mibs/NET-SNMP-TC.txt
+/usr/share/snmp/mibs/UCD-SNMP-MIB-OLD.txt
+/usr/share/snmp/mibs/LM-SENSORS-MIB.txt
+/usr/share/snmp/mibs/UCD-DEMO-MIB.txt
+/usr/share/snmp/mibs/NET-SNMP-EXAMPLES-MIB.txt
+/usr/share/snmp/mibs/NET-SNMP-PERIODIC-NOTIFY-MIB.txt
+/usr/share/snmp/mibs/NET-SNMP-PASS-MIB.txt
+/usr/share/snmp/mibs/GNOME-SMI.txt
+/usr/share/snmp/mibs/miblist.txt
+/usr/share/snmp/mibs/SNMP-TSM-MIB.txt
+/usr/share/snmp/mibs/NET-SNMP-AGENT-MIB.txt
+/usr/share/snmp/mibs/UCD-DISKIO-MIB.txt
+/usr/share/snmp/mibs/UCD-IPFILTER-MIB.txt
+/usr/share/snmp/mibs/IANA-ADDRESS-FAMILY-NUMBERS-MIB.txt
+/usr/share/snmp/mibs/NET-SNMP-MIB.txt
+/usr/share/snmp/mibs/NET-SNMP-VACM-MIB.txt
+/usr/share/snmp/mibs/UCD-DLMOD-MIB.txt
+/usr/share/snmp/mibs/NET-SNMP-SYSTEM-MIB.txt
+/usr/share/snmp/mibs/IANA-RTPROTO-MIB.txt
+/usr/share/doc/libdb5.3/build_signature_amd64.txt
+/usr/share/doc/fonts-sil-abyssinica/documentation/DOCUMENTATION.txt
+/usr/share/doc/flex/examples/manual/myname.txt
+/usr/share/doc/flex/examples/manual/eof_test01.txt
+/usr/share/doc/flex/examples/manual/eof_test03.txt
+/usr/share/doc/flex/examples/manual/eof_test02.txt
+/usr/share/doc/libqt5opengl5/LGPL_EXCEPTION.txt
+/usr/share/doc/protobuf-compiler/editors/README.txt
+/usr/share/doc/protobuf-compiler/examples/add_person.cc
+/usr/share/doc/protobuf-compiler/examples/list_people.cc
+/usr/share/doc/protobuf-compiler/examples/README.txt
+/usr/share/doc/protobuf-compiler/CONTRIBUTORS.txt
+/usr/share/doc/libqt4-opengl/LGPL_EXCEPTION.txt
+/usr/share/doc/gawk/examples/network/stoxdata.txt
+/usr/share/doc/openssl/HOWTO/keys.txt
+/usr/share/doc/openssl/fingerprints.txt
+/usr/share/doc/p7zip/DOCS/Methods.txt
+/usr/share/doc/libqt4-dbus/LGPL_EXCEPTION.txt
+/usr/share/doc/qtcore4-l10n/LGPL_EXCEPTION.txt
+/usr/share/doc/libqt5xml5/LGPL_EXCEPTION.txt
+/usr/share/doc/libical1a/ReadMe.txt
+/usr/share/doc/libio-socket-ssl-perl/debugging.txt
+/usr/share/doc/libqt5core5a/LGPL_EXCEPTION.txt
+/usr/share/doc/git/RelNotes/1.5.6.2.txt
+/usr/share/doc/git/RelNotes/2.1.0.txt
+/usr/share/doc/git/RelNotes/1.7.12.2.txt
+/usr/share/doc/git/RelNotes/1.7.3.4.txt
+/usr/share/doc/git/RelNotes/1.6.3.txt
+/usr/share/doc/git/RelNotes/2.0.3.txt
+/usr/share/doc/git/RelNotes/2.4.2.txt
+/usr/share/doc/git/RelNotes/2.6.2.txt
+/usr/share/doc/git/RelNotes/2.0.2.txt
+/usr/share/doc/git/RelNotes/1.7.10.1.txt
+/usr/share/doc/git/RelNotes/1.6.5.6.txt
+/usr/share/doc/git/RelNotes/1.6.5.1.txt
+/usr/share/doc/git/RelNotes/1.5.2.3.txt
+/usr/share/doc/git/RelNotes/1.7.3.1.txt
+/usr/share/doc/git/RelNotes/1.7.10.4.txt
+/usr/share/doc/git/RelNotes/1.7.8.1.txt
+/usr/share/doc/git/RelNotes/1.7.6.3.txt
+/usr/share/doc/git/RelNotes/1.7.9.3.txt
+/usr/share/doc/git/RelNotes/1.5.0.txt
+/usr/share/doc/git/RelNotes/1.7.8.4.txt
+/usr/share/doc/git/RelNotes/1.7.6.5.txt
+/usr/share/doc/git/RelNotes/1.6.6.txt
+/usr/share/doc/git/RelNotes/2.5.5.txt
+/usr/share/doc/git/RelNotes/1.7.0.txt
+/usr/share/doc/git/RelNotes/1.7.0.7.txt
+/usr/share/doc/git/RelNotes/2.7.2.txt
+/usr/share/doc/git/RelNotes/1.6.4.txt
+/usr/share/doc/git/RelNotes/1.6.2.3.txt
+/usr/share/doc/git/RelNotes/1.7.11.3.txt
+/usr/share/doc/git/RelNotes/1.7.9.2.txt
+/usr/share/doc/git/RelNotes/1.6.1.1.txt
+/usr/share/doc/git/RelNotes/1.6.0.txt
+/usr/share/doc/git/RelNotes/2.3.6.txt
+/usr/share/doc/git/RelNotes/1.7.7.1.txt
+/usr/share/doc/git/RelNotes/2.3.8.txt
+/usr/share/doc/git/RelNotes/1.6.4.5.txt
+/usr/share/doc/git/RelNotes/2.2.3.txt
+/usr/share/doc/git/RelNotes/1.7.9.6.txt
+/usr/share/doc/git/RelNotes/1.8.4.1.txt
+/usr/share/doc/git/RelNotes/1.5.6.txt
+/usr/share/doc/git/RelNotes/1.7.10.2.txt
+/usr/share/doc/git/RelNotes/1.5.5.txt
+/usr/share/doc/git/RelNotes/1.7.2.5.txt
+/usr/share/doc/git/RelNotes/2.7.3.txt
+/usr/share/doc/git/RelNotes/1.8.5.2.txt
+/usr/share/doc/git/RelNotes/1.7.9.4.txt
+/usr/share/doc/git/RelNotes/2.7.1.txt
+/usr/share/doc/git/RelNotes/1.7.3.3.txt
+/usr/share/doc/git/RelNotes/1.6.5.9.txt
+/usr/share/doc/git/RelNotes/2.0.5.txt
+/usr/share/doc/git/RelNotes/1.7.0.9.txt
+/usr/share/doc/git/RelNotes/1.5.4.7.txt
+/usr/share/doc/git/RelNotes/1.5.3.1.txt
+/usr/share/doc/git/RelNotes/1.7.12.1.txt
+/usr/share/doc/git/RelNotes/1.6.0.4.txt
+/usr/share/doc/git/RelNotes/1.8.2.3.txt
+/usr/share/doc/git/RelNotes/1.5.4.3.txt
+/usr/share/doc/git/RelNotes/2.3.10.txt
+/usr/share/doc/git/RelNotes/1.6.0.5.txt
+/usr/share/doc/git/RelNotes/1.5.5.1.txt
+/usr/share/doc/git/RelNotes/2.5.4.txt
+/usr/share/doc/git/RelNotes/2.7.0.txt
+/usr/share/doc/git/RelNotes/1.6.0.3.txt
+/usr/share/doc/git/RelNotes/1.6.4.4.txt
+/usr/share/doc/git/RelNotes/1.7.7.7.txt
+/usr/share/doc/git/RelNotes/1.7.12.3.txt
+/usr/share/doc/git/RelNotes/2.6.0.txt
+/usr/share/doc/git/RelNotes/1.7.5.4.txt
+/usr/share/doc/git/RelNotes/1.9.2.txt
+/usr/share/doc/git/RelNotes/1.5.1.5.txt
+/usr/share/doc/git/RelNotes/2.3.1.txt
+/usr/share/doc/git/RelNotes/1.7.5.3.txt
+/usr/share/doc/git/RelNotes/1.5.3.txt
+/usr/share/doc/git/RelNotes/1.6.2.5.txt
+/usr/share/doc/git/RelNotes/1.7.5.2.txt
+/usr/share/doc/git/RelNotes/1.6.1.4.txt
+/usr/share/doc/git/RelNotes/1.5.4.5.txt
+/usr/share/doc/git/RelNotes/1.9.4.txt
+/usr/share/doc/git/RelNotes/2.4.11.txt
+/usr/share/doc/git/RelNotes/1.5.3.4.txt
+/usr/share/doc/git/RelNotes/1.8.1.txt
+/usr/share/doc/git/RelNotes/1.7.7.6.txt
+/usr/share/doc/git/RelNotes/1.8.4.txt
+/usr/share/doc/git/RelNotes/2.0.1.txt
+/usr/share/doc/git/RelNotes/1.7.2.4.txt
+/usr/share/doc/git/RelNotes/1.6.2.2.txt
+/usr/share/doc/git/RelNotes/1.7.4.2.txt
+/usr/share/doc/git/RelNotes/1.7.0.5.txt
+/usr/share/doc/git/RelNotes/2.6.3.txt
+/usr/share/doc/git/RelNotes/1.9.0.txt
+/usr/share/doc/git/RelNotes/1.6.4.3.txt
+/usr/share/doc/git/RelNotes/1.7.3.5.txt
+/usr/share/doc/git/RelNotes/1.8.0.txt
+/usr/share/doc/git/RelNotes/1.7.10.3.txt
+/usr/share/doc/git/RelNotes/1.7.1.3.txt
+/usr/share/doc/git/RelNotes/1.8.5.1.txt
+/usr/share/doc/git/RelNotes/1.9.5.txt
+/usr/share/doc/git/RelNotes/1.7.8.6.txt
+/usr/share/doc/git/RelNotes/1.7.0.8.txt
+/usr/share/doc/git/RelNotes/2.5.2.txt
+/usr/share/doc/git/RelNotes/1.5.2.4.txt
+/usr/share/doc/git/RelNotes/1.7.11.2.txt
+/usr/share/doc/git/RelNotes/1.7.0.4.txt
+/usr/share/doc/git/RelNotes/1.7.7.2.txt
+/usr/share/doc/git/RelNotes/1.8.4.5.txt
+/usr/share/doc/git/RelNotes/2.3.9.txt
+/usr/share/doc/git/RelNotes/1.7.0.1.txt
+/usr/share/doc/git/RelNotes/1.7.7.4.txt
+/usr/share/doc/git/RelNotes/1.7.4.txt
+/usr/share/doc/git/RelNotes/1.7.1.4.txt
+/usr/share/doc/git/RelNotes/1.8.5.4.txt
+/usr/share/doc/git/RelNotes/2.4.8.txt
+/usr/share/doc/git/RelNotes/1.8.1.4.txt
+/usr/share/doc/git/RelNotes/2.1.3.txt
+/usr/share/doc/git/RelNotes/1.7.2.1.txt
+/usr/share/doc/git/RelNotes/1.7.3.txt
+/usr/share/doc/git/RelNotes/1.6.2.txt
+/usr/share/doc/git/RelNotes/1.7.2.2.txt
+/usr/share/doc/git/RelNotes/1.7.0.3.txt
+/usr/share/doc/git/RelNotes/1.5.2.1.txt
+/usr/share/doc/git/RelNotes/2.4.6.txt
+/usr/share/doc/git/RelNotes/1.6.5.7.txt
+/usr/share/doc/git/RelNotes/2.4.4.txt
+/usr/share/doc/git/RelNotes/2.3.7.txt
+/usr/share/doc/git/RelNotes/1.7.1.1.txt
+/usr/share/doc/git/RelNotes/1.7.9.1.txt
+/usr/share/doc/git/RelNotes/2.0.0.txt
+/usr/share/doc/git/RelNotes/1.5.0.5.txt
+/usr/share/doc/git/RelNotes/1.9.3.txt
+/usr/share/doc/git/RelNotes/2.2.1.txt
+/usr/share/doc/git/RelNotes/1.5.1.2.txt
+/usr/share/doc/git/RelNotes/1.8.2.txt
+/usr/share/doc/git/RelNotes/1.8.4.2.txt
+/usr/share/doc/git/RelNotes/1.5.3.8.txt
+/usr/share/doc/git/RelNotes/1.6.0.2.txt
+/usr/share/doc/git/RelNotes/2.4.7.txt
+/usr/share/doc/git/RelNotes/1.5.5.3.txt
+/usr/share/doc/git/RelNotes/1.6.6.2.txt
+/usr/share/doc/git/RelNotes/1.5.0.7.txt
+/usr/share/doc/git/RelNotes/2.3.3.txt
+/usr/share/doc/git/RelNotes/2.1.2.txt
+/usr/share/doc/git/RelNotes/1.5.5.4.txt
+/usr/share/doc/git/RelNotes/2.6.6.txt
+/usr/share/doc/git/RelNotes/1.7.5.1.txt
+/usr/share/doc/git/RelNotes/1.7.10.txt
+/usr/share/doc/git/RelNotes/1.6.4.2.txt
+/usr/share/doc/git/RelNotes/1.6.0.1.txt
+/usr/share/doc/git/RelNotes/1.8.0.3.txt
+/usr/share/doc/git/RelNotes/1.6.5.8.txt
+/usr/share/doc/git/RelNotes/1.8.3.4.txt
+/usr/share/doc/git/RelNotes/1.5.6.4.txt
+/usr/share/doc/git/RelNotes/2.7.4.txt
+/usr/share/doc/git/RelNotes/1.6.1.3.txt
+/usr/share/doc/git/RelNotes/1.6.1.txt
+/usr/share/doc/git/RelNotes/1.5.1.4.txt
+/usr/share/doc/git/RelNotes/1.5.4.txt
+/usr/share/doc/git/RelNotes/1.8.5.txt
+/usr/share/doc/git/RelNotes/1.8.3.txt
+/usr/share/doc/git/RelNotes/1.9.1.txt
+/usr/share/doc/git/RelNotes/1.7.4.4.txt
+/usr/share/doc/git/RelNotes/1.7.4.1.txt
+/usr/share/doc/git/RelNotes/1.7.11.5.txt
+/usr/share/doc/git/RelNotes/1.7.5.txt
+/usr/share/doc/git/RelNotes/1.8.0.1.txt
+/usr/share/doc/git/RelNotes/2.6.5.txt
+/usr/share/doc/git/RelNotes/1.6.4.1.txt
+/usr/share/doc/git/RelNotes/1.7.6.4.txt
+/usr/share/doc/git/RelNotes/1.7.11.6.txt
+/usr/share/doc/git/RelNotes/2.4.3.txt
+/usr/share/doc/git/RelNotes/1.8.0.2.txt
+/usr/share/doc/git/RelNotes/1.7.7.3.txt
+/usr/share/doc/git/RelNotes/1.7.0.2.txt
+/usr/share/doc/git/RelNotes/1.7.11.4.txt
+/usr/share/doc/git/RelNotes/2.4.0.txt
+/usr/share/doc/git/RelNotes/1.5.5.6.txt
+/usr/share/doc/git/RelNotes/1.7.6.1.txt
+/usr/share/doc/git/RelNotes/1.5.4.1.txt
+/usr/share/doc/git/RelNotes/1.6.1.2.txt
+/usr/share/doc/git/RelNotes/1.7.6.2.txt
+/usr/share/doc/git/RelNotes/2.5.3.txt
+/usr/share/doc/git/RelNotes/1.6.2.1.txt
+/usr/share/doc/git/RelNotes/1.8.2.1.txt
+/usr/share/doc/git/RelNotes/1.7.7.txt
+/usr/share/doc/git/RelNotes/1.5.6.6.txt
+/usr/share/doc/git/RelNotes/1.7.10.5.txt
+/usr/share/doc/git/RelNotes/1.5.6.3.txt
+/usr/share/doc/git/RelNotes/1.5.1.6.txt
+/usr/share/doc/git/RelNotes/1.7.6.6.txt
+/usr/share/doc/git/RelNotes/1.8.2.2.txt
+/usr/share/doc/git/RelNotes/2.1.4.txt
+/usr/share/doc/git/RelNotes/1.7.8.txt
+/usr/share/doc/git/RelNotes/2.6.1.txt
+/usr/share/doc/git/RelNotes/1.7.9.txt
+/usr/share/doc/git/RelNotes/1.6.5.4.txt
+/usr/share/doc/git/RelNotes/1.7.8.5.txt
+/usr/share/doc/git/RelNotes/1.5.6.1.txt
+/usr/share/doc/git/RelNotes/1.7.11.txt
+/usr/share/doc/git/RelNotes/1.6.3.2.txt
+/usr/share/doc/git/RelNotes/2.5.1.txt
+/usr/share/doc/git/RelNotes/1.5.0.6.txt
+/usr/share/doc/git/RelNotes/1.7.2.txt
+/usr/share/doc/git/RelNotes/1.5.4.4.txt
+/usr/share/doc/git/RelNotes/1.8.4.4.txt
+/usr/share/doc/git/RelNotes/1.5.2.5.txt
+/usr/share/doc/git/RelNotes/1.5.0.4.txt
+/usr/share/doc/git/RelNotes/1.5.4.6.txt
+/usr/share/doc/git/RelNotes/1.5.5.5.txt
+/usr/share/doc/git/RelNotes/2.3.5.txt
+/usr/share/doc/git/RelNotes/1.6.5.2.txt
+/usr/share/doc/git/RelNotes/1.5.3.7.txt
+/usr/share/doc/git/RelNotes/2.6.4.txt
+/usr/share/doc/git/RelNotes/1.8.1.3.txt
+/usr/share/doc/git/RelNotes/1.8.3.1.txt
+/usr/share/doc/git/RelNotes/1.6.6.1.txt
+/usr/share/doc/git/RelNotes/2.2.0.txt
+/usr/share/doc/git/RelNotes/2.1.1.txt
+/usr/share/doc/git/RelNotes/1.8.1.6.txt
+/usr/share/doc/git/RelNotes/2.4.10.txt
+/usr/share/doc/git/RelNotes/1.8.5.5.txt
+/usr/share/doc/git/RelNotes/1.5.0.1.txt
+/usr/share/doc/git/RelNotes/1.7.9.7.txt
+/usr/share/doc/git/RelNotes/1.8.3.2.txt
+/usr/share/doc/git/RelNotes/1.5.3.6.txt
+/usr/share/doc/git/RelNotes/1.6.5.3.txt
+/usr/share/doc/git/RelNotes/1.6.3.4.txt
+/usr/share/doc/git/RelNotes/1.5.5.2.txt
+/usr/share/doc/git/RelNotes/1.6.3.3.txt
+/usr/share/doc/git/RelNotes/1.7.1.txt
+/usr/share/doc/git/RelNotes/1.5.2.txt
+/usr/share/doc/git/RelNotes/1.8.5.3.txt
+/usr/share/doc/git/RelNotes/1.6.6.3.txt
+/usr/share/doc/git/RelNotes/2.2.2.txt
+/usr/share/doc/git/RelNotes/1.8.1.2.txt
+/usr/share/doc/git/RelNotes/1.7.4.5.txt
+/usr/share/doc/git/RelNotes/1.5.1.txt
+/usr/share/doc/git/RelNotes/2.0.4.txt
+/usr/share/doc/git/RelNotes/2.5.0.txt
+/usr/share/doc/git/RelNotes/1.5.1.3.txt
+/usr/share/doc/git/RelNotes/2.4.1.txt
+/usr/share/doc/git/RelNotes/1.5.4.2.txt
+/usr/share/doc/git/RelNotes/1.6.0.6.txt
+/usr/share/doc/git/RelNotes/1.6.5.txt
+/usr/share/doc/git/RelNotes/2.4.5.txt
+/usr/share/doc/git/RelNotes/1.8.4.3.txt
+/usr/share/doc/git/RelNotes/1.7.7.5.txt
+/usr/share/doc/git/RelNotes/1.8.5.6.txt
+/usr/share/doc/git/RelNotes/1.7.8.2.txt
+/usr/share/doc/git/RelNotes/1.7.9.5.txt
+/usr/share/doc/git/RelNotes/1.7.11.1.txt
+/usr/share/doc/git/RelNotes/1.7.12.4.txt
+/usr/share/doc/git/RelNotes/1.5.1.1.txt
+/usr/share/doc/git/RelNotes/1.7.3.2.txt
+/usr/share/doc/git/RelNotes/2.4.9.txt
+/usr/share/doc/git/RelNotes/1.5.2.2.txt
+/usr/share/doc/git/RelNotes/1.7.4.3.txt
+/usr/share/doc/git/RelNotes/2.3.2.txt
+/usr/share/doc/git/RelNotes/1.6.2.4.txt
+/usr/share/doc/git/RelNotes/1.7.2.3.txt
+/usr/share/doc/git/RelNotes/2.3.0.txt
+/usr/share/doc/git/RelNotes/1.5.3.3.txt
+/usr/share/doc/git/RelNotes/1.7.8.3.txt
+/usr/share/doc/git/RelNotes/1.7.6.txt
+/usr/share/doc/git/RelNotes/1.8.1.5.txt
+/usr/share/doc/git/RelNotes/1.7.0.6.txt
+/usr/share/doc/git/RelNotes/1.8.3.3.txt
+/usr/share/doc/git/RelNotes/1.5.0.2.txt
+/usr/share/doc/git/RelNotes/1.5.3.2.txt
+/usr/share/doc/git/RelNotes/1.5.3.5.txt
+/usr/share/doc/git/RelNotes/1.7.12.txt
+/usr/share/doc/git/RelNotes/1.7.1.2.txt
+/usr/share/doc/git/RelNotes/1.8.1.1.txt
+/usr/share/doc/git/RelNotes/1.7.11.7.txt
+/usr/share/doc/git/RelNotes/1.6.3.1.txt
+/usr/share/doc/git/RelNotes/1.6.5.5.txt
+/usr/share/doc/git/RelNotes/2.3.4.txt
+/usr/share/doc/git/RelNotes/1.5.6.5.txt
+/usr/share/doc/git/RelNotes/1.5.0.3.txt
+/usr/share/doc/git/contrib/convert-objects/git-convert-objects.txt
+/usr/share/doc/git/contrib/svn-fe/svn-fe.txt
+/usr/share/doc/git/contrib/gitview/gitview.txt
+/usr/share/doc/git/contrib/hg-to-git/hg-to-git.txt
+/usr/share/doc/git/contrib/contacts/git-contacts.txt
+/usr/share/doc/git/contrib/examples/git-svnimport.txt
+/usr/share/doc/git/contrib/subtree/git-subtree.txt
+/usr/share/doc/libqt5sql5/LGPL_EXCEPTION.txt
+/usr/share/doc/python-utidylib/README.txt
+/usr/share/doc/libqt5dbus5/LGPL_EXCEPTION.txt
+/usr/share/doc/libqt4-qt3support/LGPL_EXCEPTION.txt
+/usr/share/doc/qdbus/LGPL_EXCEPTION.txt
+/usr/share/doc/busybox-static/syslog.conf.txt
+/usr/share/doc/libqt5sql5-sqlite/LGPL_EXCEPTION.txt
+/usr/share/doc/libqt5gui5/LGPL_EXCEPTION.txt
+/usr/share/doc/hplip/users-guide.txt
+/usr/share/doc/libqt4-svg/LGPL_EXCEPTION.txt
+/usr/share/doc/cups/HOWTO_BUGREPORT.txt
+/usr/share/doc/cups/CREDITS.txt
+/usr/share/doc/gnupg/Upgrading_From_PGP.txt
+/usr/share/doc/dpkg-dev/frontend.txt
+/usr/share/doc/libqt5printsupport5/LGPL_EXCEPTION.txt
+/usr/share/doc/libsdl1.2debian/README-SDL.txt
+/usr/share/doc/libqtdbus4/LGPL_EXCEPTION.txt
+/usr/share/doc/alsa-base/driver/powersave.txt
+/usr/share/doc/alsa-base/driver/emu10k1-jack.txt
+/usr/share/doc/alsa-base/driver/ControlNames.txt
+/usr/share/doc/alsa-base/driver/Bt87x.txt
+/usr/share/doc/alsa-base/driver/serial-u16550.txt
+/usr/share/doc/alsa-base/driver/VIA82xx-mixer.txt
+/usr/share/doc/alsa-base/driver/alsa-parameters.txt
+/usr/share/doc/alsa-base/driver/MIXART.txt
+/usr/share/doc/alsa-base/driver/Joystick.txt
+/usr/share/doc/libqt4-help/LGPL_EXCEPTION.txt
+/usr/share/doc/libqt4-test/LGPL_EXCEPTION.txt
+/usr/share/doc/ttf-ubuntu-font-family/TRADEMARKS.txt
+/usr/share/doc/ttf-ubuntu-font-family/README.txt
+/usr/share/doc/ttf-ubuntu-font-family/CONTRIBUTING.txt
+/usr/share/doc/libqt4-xml/LGPL_EXCEPTION.txt
+/usr/share/doc/python-lxml/TODO.txt
+/usr/share/doc/python-lxml/CREDITS.txt
+/usr/share/doc/xorg/index.txt
+/usr/share/doc/xorg/reference/experimental.txt
+/usr/share/doc/xorg/reference/squeeze-backports.txt
+/usr/share/doc/xorg/reference/upstream-contacts.txt
+/usr/share/doc/xorg/faq/general.txt
+/usr/share/doc/xorg/upstream-features.txt
+/usr/share/doc/xorg/howto/triage-bugs.txt
+/usr/share/doc/xorg/howto/report-bugs.txt
+/usr/share/doc/libaacs0/README.txt
+/usr/share/doc/mount/mount.txt
+/usr/share/doc/syslinux-common/asciidoc/hello.txt
+/usr/share/doc/syslinux-common/asciidoc/com-derv.txt
+/usr/share/doc/syslinux-common/asciidoc/syslinux-cli.txt
+/usr/share/doc/syslinux-common/asciidoc/com-bug.txt
+/usr/share/doc/syslinux-common/asciidoc/com-rpt.txt
+/usr/share/doc/syslinux-common/asciidoc/com-name.txt
+/usr/share/doc/syslinux-common/txt/distrib.txt
+/usr/share/doc/syslinux-common/txt/mboot.txt
+/usr/share/doc/syslinux-common/txt/gpt.txt
+/usr/share/doc/syslinux-common/txt/cptime.txt
+/usr/share/doc/syslinux-common/txt/building.txt
+/usr/share/doc/syslinux-common/txt/usbkey.txt
+/usr/share/doc/syslinux-common/README.txt
+/usr/share/doc/openoffice.org-hyphenation/README_hyph_en_CA.txt
+/usr/share/doc/openoffice.org-hyphenation/README_hyph_ga_IE.txt
+/usr/share/doc/openoffice.org-hyphenation/README_hyph_fi_FI.txt
+/usr/share/doc/lvm2/pvmove_outline.txt
+/usr/share/doc/lvm2/lvmpolld_overview.txt
+/usr/share/doc/lvm2/udev_assembly.txt
+/usr/share/doc/lvm2/testing.txt
+/usr/share/doc/fonts-tibetan-machine/ReadMe.txt
+/usr/share/doc/python-xapian1.3/_sources/examples.txt
+/usr/share/doc/python-xapian1.3/_sources/index.txt
+/usr/share/doc/python-xapian1.3/_sources/xapian.txt
+/usr/share/doc/python-xapian1.3/_sources/introduction.txt
+/usr/share/doc/librsync1/libversions.txt
+/usr/share/doc/toshset/supported-models.txt
+/usr/share/doc/libqt5network5/LGPL_EXCEPTION.txt
+/usr/share/doc/libqt4-script/LGPL_EXCEPTION.txt
+/usr/share/doc/libqtgui4/LGPL_EXCEPTION.txt
+/usr/share/doc/libsane/sceptre/s1200.txt
+/usr/share/doc/libsane/leo/leo.txt
+/usr/share/doc/libsane/plustek/Plustek-PARPORT.txt
+/usr/share/doc/libsane/plustek/Plustek-USB-TODO.txt
+/usr/share/doc/libsane/plustek/Plustek-PARPORT-TODO.txt
+/usr/share/doc/libsane/umax/negative-types.txt
+/usr/share/doc/libqt4-network/LGPL_EXCEPTION.txt
+/usr/share/doc/gnupg-agent/examples/trustlist.txt
+/usr/share/doc/syslinux-legacy/usbkey.txt
+/usr/share/doc/libauthen-sasl-perl/api.txt
+/usr/share/doc/libqt4-designer/LGPL_EXCEPTION.txt
+/usr/share/doc/libqt4-sql/LGPL_EXCEPTION.txt
+/usr/share/doc/linux-firmware/licenses/LICENCE.tda7706-firmware.txt
+/usr/share/doc/linux-firmware/licenses/LICENCE.ralink-firmware.txt
+/usr/share/doc/linux-firmware/licenses/LICENCE.realtek-firmware.txt
+/usr/share/doc/linux-firmware/licenses/LICENCE.rtlwifi_firmware.txt
+/usr/share/doc/libqt5widgets5/LGPL_EXCEPTION.txt
+/usr/share/doc/util-linux/blkid.txt
+/usr/share/doc/util-linux/col.txt
+/usr/share/doc/util-linux/deprecated.txt
+/usr/share/doc/util-linux/release-schedule.txt
+/usr/share/doc/util-linux/howto-compilation.txt
+/usr/share/doc/util-linux/mount.txt
+/usr/share/doc/util-linux/howto-tests.txt
+/usr/share/doc/util-linux/getopt.txt
+/usr/share/doc/util-linux/source-code-management.txt
+/usr/share/doc/util-linux/getopt_changelog.txt
+/usr/share/doc/util-linux/howto-debug.txt
+/usr/share/doc/util-linux/cal.txt
+/usr/share/doc/util-linux/hwclock.txt
+/usr/share/doc/util-linux/PAM-configuration.txt
+/usr/share/doc/util-linux/howto-build-sys.txt
+/usr/share/doc/util-linux/00-about-docs.txt
+/usr/share/doc/util-linux/modems-with-agetty.txt
+/usr/share/doc/util-linux/pg.txt
+/usr/share/doc/libtxc-dxtn-s2tc0/README.txt
+/usr/share/doc/libqt4-declarative/LGPL_EXCEPTION.txt
+/usr/share/doc/hunspell-en-us/README.txt
+/usr/share/doc/libasound2-plugins/upmix.txt
+/usr/share/doc/libasound2-plugins/vdownmix.txt
+/usr/share/doc/libasound2-plugins/lavcrate.txt
+/usr/share/doc/libasound2-plugins/speexdsp.txt
+/usr/share/doc/libasound2-plugins/a52.txt
+/usr/share/doc/libasound2-plugins/samplerate.txt
+/usr/share/doc/libasound2-plugins/speexrate.txt
+/usr/share/doc/vlc-data/lua/playlist/README.txt
+/usr/share/doc/vlc-data/lua/meta/art/README.txt
+/usr/share/doc/vlc-data/lua/meta/reader/README.txt
+/usr/share/doc/vlc-data/lua/meta/fetcher/README.txt
+/usr/share/doc/vlc-data/lua/intf/README.txt
+/usr/share/doc/vlc-data/lua/extensions/README.txt
+/usr/share/doc/vlc-data/lua/sd/README.txt
+/usr/share/doc/libqt4-scripttools/LGPL_EXCEPTION.txt
+/usr/share/doc/libqt4-xmlpatterns/LGPL_EXCEPTION.txt
+/usr/share/doc/libqtcore4/LGPL_EXCEPTION.txt
+/usr/share/aptitude/mine-help-fi.txt
+/usr/share/aptitude/mine-help-de.txt
+/usr/share/aptitude/help-uk.txt
+/usr/share/aptitude/mine-help-ja.txt
+/usr/share/aptitude/help-tr.txt
+/usr/share/aptitude/help-nb.txt
+/usr/share/aptitude/help-pt_BR.txt
+/usr/share/aptitude/help-es.txt
+/usr/share/aptitude/help-sv.txt
+/usr/share/aptitude/help-sk.txt
+/usr/share/aptitude/mine-help.txt
+/usr/share/aptitude/help.txt
+/usr/share/aptitude/help-zh_CN.txt
+/usr/share/aptitude/mine-help-fr.txt
+/usr/share/aptitude/help-ru.txt
+/usr/share/aptitude/mine-help-it.txt
+/usr/share/aptitude/help-fi.txt
+/usr/share/aptitude/mine-help-gl.txt
+/usr/share/aptitude/help-cs.txt
+/usr/share/aptitude/help-pl.txt
+/usr/share/aptitude/help-eu.txt
+/usr/share/aptitude/help-ja.txt
+/usr/share/aptitude/help-fr.txt
+/usr/share/aptitude/mine-help-sk.txt
+/usr/share/aptitude/mine-help-cs.txt
+/usr/share/aptitude/help-zh_TW.txt
+/usr/share/aptitude/mine-help-pl.txt
+/usr/share/aptitude/mine-help-pt_BR.txt
+/usr/share/aptitude/help-de.txt
+/usr/share/aptitude/mine-help-sv.txt
+/usr/share/aptitude/mine-help-es.txt
+/usr/share/aptitude/help-it.txt
+/usr/share/aptitude/help-gl.txt
+/usr/local/lib/python3.5/dist-packages/configparser-3.5.0.egg-info/SOURCES.txt
+/usr/local/lib/python3.5/dist-packages/configparser-3.5.0.egg-info/installed-files.txt
+/usr/local/lib/python3.5/dist-packages/configparser-3.5.0.egg-info/dependency_links.txt
+/usr/local/lib/python3.5/dist-packages/configparser-3.5.0.egg-info/namespace_packages.txt
+/usr/local/lib/python3.5/dist-packages/configparser-3.5.0.egg-info/top_level.txt
+/usr/local/lib/python3.5/dist-packages/pyodbc-4.0.16.egg-info/SOURCES.txt
+/usr/local/lib/python3.5/dist-packages/pyodbc-4.0.16.egg-info/installed-files.txt
+/usr/local/lib/python3.5/dist-packages/pyodbc-4.0.16.egg-info/dependency_links.txt
+/usr/local/lib/python3.5/dist-packages/pyodbc-4.0.16.egg-info/top_level.txt
+/opt/sublime_text/changelog.txt
+/etc/skel/.config/chromium/chrome_shutdown_ms.txt
+/etc/brltty/Input/eu/all.txt
+/etc/brltty/Input/mn/all.txt
+/etc/brltty/Input/lt/all.txt
+/etc/brltty/Input/bd/all.txt
+/etc/brltty/Input/vd/all.txt
+/etc/brltty/Input/tt/all.txt
+/etc/brltty/Input/ba/all.txt
+/etc/brltty/Input/lb/all.txt
+/etc/brltty/Input/vr/all.txt
+/etc/brltty/Input/tn/all.txt
+/etc/brltty/Input/mb/all.txt
+/etc/brltty/Input/bl/40_m20_m40.txt
+/etc/brltty/Input/bl/18.txt
+/etc/brltty/Input/vs/all.txt
+/etc/brltty/Input/ec/spanish.txt
+/etc/brltty/Input/ec/all.txt
+/etc/X11/rgb.txt
+/boot/grub/gfxblacklist.txt
+find: ‘/run/user/1000/gvfs’: Permission denied
+]0;dicryptor@dicryptor-VirtualBox ~[01;32mdicryptor@dicryptor-VirtualBox[00m [01;34m~ $[00m 
+]0;dicryptor@dicryptor-VirtualBox ~[01;32mdicryptor@dicryptor-VirtualBox[00m [01;34m~ $[00m 
+]0;dicryptor@dicryptor-VirtualBox ~[01;32mdicryptor@dicryptor-VirtualBox[00m [01;34m~ $[00m 
+]0;dicryptor@dicryptor-VirtualBox ~[01;32mdicryptor@dicryptor-VirtualBox[00m [01;34m~ $[00m mkdir ~/assignment1/pdfs
+]0;dicryptor@dicryptor-VirtualBox ~[01;32mdicryptor@dicryptor-VirtualBox[00m [01;34m~ $[00m cd assignment1
+]0;dicryptor@dicryptor-VirtualBox ~/assignment1[01;32mdicryptor@dicryptor-VirtualBox[00m [01;34m~/assignment1 $[00m 
+]0;dicryptor@dicryptor-VirtualBox ~/assignment1[01;32mdicryptor@dicryptor-VirtualBox[00m [01;34m~/assignment1 $[00m 
+]0;dicryptor@dicryptor-VirtualBox ~/assignment1[01;32mdicryptor@dicryptor-VirtualBox[00m [01;34m~/assignment1 $[00m find . -type f -name "*.pdf" -exec cp {} ~/assig nment1/pdfs/ \;
+]0;dicryptor@dicryptor-VirtualBox ~/assignment1[01;32mdicryptor@dicryptor-VirtualBox[00m [01;34m~/assignment1 $[00m ls -l pdfs/
+total 488
+-rw-rw-r-- 1 dicryptor dicryptor 343068 Apr 27 15:57 L3 Assembly - Quick Guide.pdf
+-rw-rw-r-- 1 dicryptor dicryptor 154701 Apr 27 15:57 Singapore April 2017 - March 2018.pdf
+]0;dicryptor@dicryptor-VirtualBox ~/assignment1[01;32mdicryptor@dicryptor-VirtualBox[00m [01;34m~/assignment1 $[00m 
+]0;dicryptor@dicryptor-VirtualBox ~/assignment1[01;32mdicryptor@dicryptor-VirtualBox[00m [01;34m~/assignment1 $[00m 
+]0;dicryptor@dicryptor-VirtualBox ~/assignment1[01;32mdicryptor@dicryptor-VirtualBox[00m [01;34m~/assignment1 $[00m 
+]0;dicryptor@dicryptor-VirtualBox ~/assignment1[01;32mdicryptor@dicryptor-VirtualBox[00m [01;34m~/assignment1 $[00m sort -r pokemon2.txt > poke.txt
+]0;dicryptor@dicryptor-VirtualBox ~/assignment1[01;32mdicryptor@dicryptor-VirtualBox[00m [01;34m~/assignment1 $[00m cat poke.txt 
+Zubat
+Zapdos
+Wigglytuff
+Weezing
+Weepinbell
+Weedle
+Wartortle
+Vulpix
+Voltorb
+Vileplume
+Victreebel
+Venusaur
+Venonat
+Venomoth
+Vaporeon
+Tentacruel
+Tentacool
+Tauros
+Tangela
+Staryu
+Starmie
+Squirtle
+Spearow
+Snorlax
+Slowpoke
+Slowbro
+Shellder
+Seel
+Seaking
+Seadra
+Scyther
+Sandslash
+Sandshrew
+Rhyhorn
+Rhydon
+Rattata
+Raticate
+Rapidash
+Raichu
+Psyduck
+Primeape
+Porygon
+Ponyta
+Poliwrath
+Poliwhirl
+Poliwag
+Pinsir
+Pikachu
+Pidgey
+Pidgeotto
+Pidgeot
+Persian
+Parasect
+Paras
+Onix
+Omastar
+Omanyte
+Oddish
+Ninetales
+Nidorino
+Nidorina
+NidoranM
+NidoranF
+Nidoqueen
+Nidoking
+Muk
+Mr. Mime
+Moltres
+Mewtwo
+Mews
+Metapod
+Meowth
+Marowak
+Mankey
+Magneton
+Magnemite
+Magmar
+Magikarp
+Machop
+Machoke
+Machamp
+Lickitung
+Lapras
+Krabby
+Koffing
+Kingler
+Kangaskhan
+Kakuna
+Kadabra
+Kabutops
+Kabuto
+Jynx
+Jolteon
+Jigglypuff
+Ivysaur
+Hypno
+Horsea
+Hitmonlee
+Hitmonchan
+Haunter
+Gyarados
+Growlithe
+Grimer
+Graveler
+Golem
+Golduck
+Goldeen
+Golbat
+Gloom
+Geodude
+Gengar
+Gastly
+Flareon
+Fearow
+Farfetch'd
+Exeggutor
+Exeggcute
+Electrode
+Electabuzz
+Ekans
+Eevee
+Dugtrio
+Drowzee
+Dratini
+Dragonite
+Dragonair
+Doduo
+Dodrio
+Ditto
+Diglett
+Dewgong
+Cubone
+Cloyster
+Clefairy
+Clefable
+Charmeleon
+Charmander
+Charizard
+Chansey
+Caterpie
+Butterfree
+Bulbasaur
+Blastoise
+Bellsprout
+Beedrill
+Articuno
+Arcanine
+Arbok
+Alakazam
+Aerodactyl
+Abra
+]0;dicryptor@dicryptor-VirtualBox ~/assignment1[01;32mdicryptor@dicryptor-VirtualBox[00m [01;34m~/assignment1 $[00m 
+]0;dicryptor@dicryptor-VirtualBox ~/assignment1[01;32mdicryptor@dicryptor-VirtualBox[00m [01;34m~/assignment1 $[00m 
+]0;dicryptor@dicryptor-VirtualBox ~/assignment1[01;32mdicryptor@dicryptor-VirtualBox[00m [01;34m~/assignment1 $[00m 
+]0;dicryptor@dicryptor-VirtualBox ~/assignment1[01;32mdicryptor@dicryptor-VirtualBox[00m [01;34m~/assignment1 $[00m sudo apt-get update && sudo apt-get upgrade -y
+0% [Working]0% [Working]0% [Working]0% [Working]0% [Working]0% [Working]0% [Working]0% [Working]0% [Working]0% [Working]0% [Working]0% [Connecting to ppa.launchpad.net]0% [Connecting to ppa.launchpad.net]0% [Connecting to ppa.launchpad.net]0% [Connecting to ppa.launchpad.net]0% [Connecting to ppa.launchpad.net]0% [Connecting to ppa.launchpad.net]0% [Connecting to ppa.launchpad.net]0% [Connecting to ppa.launchpad.net]0% [Connecting to ppa.launchpad.net]0% [Connecting to ppa.launchpad.net]0% [Connecting to ppa.launchpad.net]0% [Connecting to ppa.launchpad.net]0% [Connecting to ppa.launchpad.net]0% [Connecting to ppa.launchpad.net]0% [Connecting to ppa.launchpad.net]0% [Connecting to ppa.launchpad.net]0% [Connecting to ppa.launchpad.net]0% [Connecting to ppa.launchpad.net]0% [Connecting to ppa.launchpad.net]0% [Connecting to ppa.launchpad.net]0% [Connecting to archive.ubuntu.com] [Connecting to ppa.launchpad.net]0% [Connecting to archive.ubuntu.com] [Connecting to ppa.launchpad.net]0% [Connecting to archive.ubuntu.com] [Connecting to ppa.launchpad.net]0% [Connecting to archive.ubuntu.com] [Connecting to ppa.launchpad.net]0% [Connecting to archive.ubuntu.com] [Connecting to ppa.launchpad.net]0% [Connecting to archive.ubuntu.com] [Connecting to ppa.launchpad.net]0% [Connecting to archive.ubuntu.com] [Connecting to ppa.launchpad.net]0% [Connecting to archive.ubuntu.com] [Connecting to ppa.launchpad.net]0% [Connecting to archive.ubuntu.com] [Connecting to ppa.launchpad.net]0% [Connecting to packages.linuxmint.com] [Connecting to archive.ubuntu.com] [Connecting to se0% [Connecting to packages.linuxmint.com] [Connecting to archive.ubuntu.com] [Connecting to se                                                                                              Get:1 http://archive.canonical.com/ubuntu xenial InRelease [11.5 kB]
+0% [Connecting to packages.linuxmint.com] [Connecting to archive.ubuntu.com] [Connecting to se0% [Connecting to packages.linuxmint.com] [Connecting to archive.ubuntu.com] [Connecting to se0% [1 InRelease gpgv 11.5 kB] [Connecting to packages.linuxmint.com] [Connecting to archive.ub0% [Connecting to packages.linuxmint.com] [Connecting to archive.ubuntu.com] [Connecting to se0% [Connecting to packages.linuxmint.com] [Connecting to archive.ubuntu.com] [Connecting to se0% [Connecting to packages.linuxmint.com] [Connecting to archive.ubuntu.com] [Connecting to se0% [Connecting to packages.linuxmint.com] [Connecting to archive.ubuntu.com] [Connecting to se0% [Connecting to packages.linuxmint.com] [Connecting to archive.ubuntu.com] [Connecting to se0% [Connecting to packages.linuxmint.com] [Connecting to archive.ubuntu.com] [Connecting to se0% [Connecting to packages.linuxmint.com] [Connecting to archive.ubuntu.com] [Connecting to se0% [Connecting to packages.linuxmint.com] [Connecting to archive.ubuntu.com] [Connecting to se0% [Connecting to packages.linuxmint.com] [Connecting to archive.ubuntu.com] [Connecting to se0% [Connecting to packages.linuxmint.com] [Connecting to archive.ubuntu.com] [Connecting to se0% [Connecting to packages.linuxmint.com] [Connecting to archive.ubuntu.com] [Connecting to se0% [Connecting to packages.linuxmint.com] [Connecting to archive.ubuntu.com] [Connecting to se0% [Connecting to packages.linuxmint.com] [Connecting to archive.ubuntu.com] [Connecting to se0% [Connecting to packages.linuxmint.com] [Connecting to archive.ubuntu.com] [Connecting to se0% [Connecting to packages.linuxmint.com] [Connecting to archive.ubuntu.com] [Connecting to se0% [Connecting to packages.linuxmint.com] [Connecting to archive.ubuntu.com] [Connecting to se0% [Connecting to packages.linuxmint.com] [Connecting to archive.ubuntu.com] [Connecting to se0% [Connecting to packages.linuxmint.com] [Connecting to archive.ubuntu.com] [Connecting to se0% [Connecting to packages.linuxmint.com] [Connecting to archive.ubuntu.com] [Connecting to se0% [Connecting to packages.linuxmint.com] [Connecting to archive.ubuntu.com] [Connecting to se0% [Connecting to packages.linuxmint.com] [Connecting to archive.ubuntu.com] [Connecting to se0% [Connecting to packages.linuxmint.com] [Connecting to archive.ubuntu.com] [Connecting to se0% [Connecting to packages.linuxmint.com] [Connecting to archive.ubuntu.com] [Connecting to se0% [Connecting to packages.linuxmint.com] [Connecting to archive.ubuntu.com] [Connecting to se0% [Connecting to packages.linuxmint.com] [Connecting to archive.ubuntu.com] [Connecting to se0% [Connecting to packages.linuxmint.com] [Connecting to archive.ubuntu.com] [Connecting to se0% [Connecting to packages.linuxmint.com] [Connecting to archive.ubuntu.com] [Connecting to se0% [Connecting to packages.linuxmint.com] [Connecting to archive.ubuntu.com] [Connecting to se0% [Connecting to packages.linuxmint.com] [Waiting for headers] [Waiting for headers] [Connect                                                                                              Get:2 http://security.ubuntu.com/ubuntu xenial-security InRelease [102 kB]
+0% [Connecting to packages.linuxmint.com] [Waiting for headers] [2 InRelease 1,054 B/102 kB 1%                                                                                              Get:3 http://archive.ubuntu.com/ubuntu xenial InRelease [247 kB]
+0% [Connecting to packages.linuxmint.com] [3 InRelease 3,932 B/247 kB 2%] [2 InRelease 13.7 kB0% [Connecting to packages.linuxmint.com] [3 InRelease 43.1 kB/247 kB 17%] [2 InRelease 101 kB0% [Connecting to packages.linuxmint.com] [3 InRelease 166 kB/247 kB 67%] [Connecting to ppa.l0% [2 InRelease gpgv 102 kB] [Connecting to packages.linuxmint.com] [3 InRelease 166 kB/247 kB0% [Connecting to packages.linuxmint.com] [3 InRelease 167 kB/247 kB 68%] [Connecting to ppa.l0% [Connecting to packages.linuxmint.com] [Waiting for headers] [Connecting to ppa.launchpad.n0% [3 InRelease gpgv 247 kB] [Connecting to packages.linuxmint.com] [Waiting for headers] [Con0% [Connecting to packages.linuxmint.com] [Waiting for headers] [Connecting to ppa.launchpad.n                                                                                              Get:4 http://archive.ubuntu.com/ubuntu xenial-updates InRelease [102 kB]
+0% [Connecting to packages.linuxmint.com] [4 InRelease 2,529 B/102 kB 2%] [Connecting to ppa.l0% [Connecting to packages.linuxmint.com] [Connecting to ppa.launchpad.net]       23.9 kB/s 0s0% [4 InRelease gpgv 102 kB] [Connecting to packages.linuxmint.com] [Waiting for headers] [Con0% [Connecting to packages.linuxmint.com] [Waiting for headers] [Connecting to ppa.launchpad.n                                                                                              Get:5 http://archive.ubuntu.com/ubuntu xenial-backports InRelease [102 kB]
+0% [Connecting to packages.linuxmint.com] [5 InRelease 1,129 B/102 kB 1%] [Connecting to ppa.l0% [Connecting to packages.linuxmint.com] [Connecting to ppa.launchpad.net]       23.9 kB/s 0s0% [5 InRelease gpgv 102 kB] [Connecting to packages.linuxmint.com] [Connecting to ppa.launchp0% [Connecting to packages.linuxmint.com] [Connecting to ppa.launchpad.net]       23.9 kB/s 0s0% [Connecting to packages.linuxmint.com] [Connecting to ppa.launchpad.net]       23.9 kB/s 0s0% [Connecting to packages.linuxmint.com] [Connecting to ppa.launchpad.net]       23.9 kB/s 0s0% [Connecting to packages.linuxmint.com] [Connecting to ppa.launchpad.net]       23.9 kB/s 0s                                                                                              Err:6 http://ppa.launchpad.net/webupd8team/sublime-text-2/ubuntu xenial InRelease
+  Temporary failure resolving 'ppa.launchpad.net'
+0% [Waiting for headers]                                                          23.9 kB/s 0s                                                                                              Ign:7 http://packages.linuxmint.com serena InRelease
+0% [Working]                                                                      23.9 kB/s 0s0% [Waiting for headers]                                                          23.9 kB/s 0s                                                                                              Get:8 http://packages.linuxmint.com serena Release [24.2 kB]
+0% [8 Release 2,619 B/24.2 kB 11%]                                                23.9 kB/s 0s96% [Working]                                                                     23.9 kB/s 0s96% [Release.gpg gpgv 24.2 kB]                                                    23.9 kB/s 0s100% [Working]                                                                    23.9 kB/s 0s                                                                                              Fetched 589 kB in 41s (14.2 kB/s)
+Reading package lists... 0%Reading package lists... 0%Reading package lists... 0%Reading package lists... 0%Reading package lists... 0%Reading package lists... 0%Reading package lists... 0%Reading package lists... 0%Reading package lists... 0%Reading package lists... 0%Reading package lists... 0%Reading package lists... 0%Reading package lists... 0%Reading package lists... 0%Reading package lists... 0%Reading package lists... 0%Reading package lists... 0%Reading package lists... 0%Reading package lists... 1%Reading package lists... 5%Reading package lists... 5%Reading package lists... 10%Reading package lists... 10%Reading package lists... 12%Reading package lists... 12%Reading package lists... 12%Reading package lists... 12%Reading package lists... 12%Reading package lists... 12%Reading package lists... 12%Reading package lists... 12%Reading package lists... 30%Reading package lists... 39%Reading package lists... 39%Reading package lists... 65%Reading package lists... 66%Reading package lists... 66%Reading package lists... 82%Reading package lists... 82%Reading package lists... 82%Reading package lists... 82%Reading package lists... 83%Reading package lists... 83%Reading package lists... 83%Reading package lists... 83%Reading package lists... 85%Reading package lists... 85%Reading package lists... 87%Reading package lists... 87%Reading package lists... 89%Reading package lists... 89%Reading package lists... 89%Reading package lists... 89%Reading package lists... 89%Reading package lists... 89%Reading package lists... 89%Reading package lists... 89%Reading package lists... 91%Reading package lists... 91%Reading package lists... 93%Reading package lists... 93%Reading package lists... 94%Reading package lists... 94%Reading package lists... 94%Reading package lists... 94%Reading package lists... 94%Reading package lists... 94%Reading package lists... 94%Reading package lists... 94%Reading package lists... 94%Reading package lists... 94%Reading package lists... 94%Reading package lists... 94%Reading package lists... 94%Reading package lists... 94%Reading package lists... 94%Reading package lists... 94%Reading package lists... 94%Reading package lists... 94%Reading package lists... 94%Reading package lists... 94%Reading package lists... 95%Reading package lists... 95%Reading package lists... 96%Reading package lists... 96%Reading package lists... 97%Reading package lists... 97%Reading package lists... 97%Reading package lists... 97%Reading package lists... 97%Reading package lists... 97%Reading package lists... 97%Reading package lists... 97%Reading package lists... 97%Reading package lists... 97%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... Done
+W: Failed to fetch http://ppa.launchpad.net/webupd8team/sublime-text-2/ubuntu/dists/xenial/InRelease  Temporary failure resolving 'ppa.launchpad.net'
+W: Some index files failed to download. They have been ignored, or old ones used instead.
+Reading package lists... 0%Reading package lists... 100%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree       
+Reading state information... 0%Reading state information... 0%Reading state information... Done
+Calculating upgrade... 0%Calculating upgrade... 50%Calculating upgrade... Done
+The following packages have been kept back:
+  cinnamon-screensaver
+The following packages will be upgraded:
+  apt apt-transport-https apt-utils chromium-codecs-ffmpeg-extra cifs-utils gir1.2-gtk-3.0
+  libapt-inst2.0 libapt-pkg5.0 libgail-3-0 libgtk-3-0 libgtk-3-bin libgtk-3-common
+  linux-libc-dev thermald
+14 upgraded, 0 newly installed, 0 to remove and 1 not upgraded.
+Need to get 6,953 kB of archives.
+After this operation, 91.1 kB of additional disk space will be used.
+0% [Working]0% [Waiting for headers]                        Get:1 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 libapt-pkg5.0 amd64 1.2.20 [707 kB]
+0% [1 libapt-pkg5.0 0 B/707 kB 0%]1% [1 libapt-pkg5.0 101 kB/707 kB 14%]3% [1 libapt-pkg5.0 233 kB/707 kB 33%]4% [1 libapt-pkg5.0 362 kB/707 kB 51%]5% [1 libapt-pkg5.0 458 kB/707 kB 65%]7% [1 libapt-pkg5.0 597 kB/707 kB 84%]8% [1 libapt-pkg5.0 706 kB/707 kB 100%]                                       10% [Working]             Get:2 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 libapt-inst2.0 amd64 1.2.20 [55.6 kB]
+10% [2 libapt-inst2.0 1,144 B/55.6 kB 2%]                                         12% [Waiting for headers]                         Get:3 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 apt amd64 1.2.20 [1,042 kB]
+12% [3 apt 1,141 B/1,042 kB 0%]13% [3 apt 135 kB/1,042 kB 13%]15% [3 apt 261 kB/1,042 kB 25%]16% [3 apt 408 kB/1,042 kB 39%]                                                   195 kB/s 29s18% [3 apt 514 kB/1,042 kB 49%]                                                   195 kB/s 29s19% [3 apt 641 kB/1,042 kB 62%]                                                   195 kB/s 28s21% [3 apt 775 kB/1,042 kB 74%]                                                   195 kB/s 27s22% [3 apt 898 kB/1,042 kB 86%]                                                   195 kB/s 27s23% [3 apt 1,028 kB/1,042 kB 99%]                                                 195 kB/s 26s25% [Working]                                                                     195 kB/s 26s                                                                                              Get:4 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 apt-utils amd64 1.2.20 [196 kB]
+25% [4 apt-utils 0 B/196 kB 0%]                                                   195 kB/s 26s27% [4 apt-utils 160 kB/196 kB 81%]                                               195 kB/s 25s29% [Working]                                                                     195 kB/s 25s                                                                                              Get:5 http://archive.ubuntu.com/ubuntu xenial-updates/universe amd64 chromium-codecs-ffmpeg-extra amd64 58.0.3029.81-0ubuntu0.16.04.1277 [999 kB]
+29% [5 chromium-codecs-ffmpeg-extra 0 B/999 kB 0%]                                195 kB/s 25s30% [5 chromium-codecs-ffmpeg-extra 128 kB/999 kB 13%]                            195 kB/s 24s32% [5 chromium-codecs-ffmpeg-extra 257 kB/999 kB 26%]                            195 kB/s 24s33% [5 chromium-codecs-ffmpeg-extra 385 kB/999 kB 39%]                            195 kB/s 23s35% [5 chromium-codecs-ffmpeg-extra 514 kB/999 kB 51%]                            195 kB/s 22s36% [5 chromium-codecs-ffmpeg-extra 642 kB/999 kB 64%]                            233 kB/s 18s38% [5 chromium-codecs-ffmpeg-extra 771 kB/999 kB 77%]                            233 kB/s 17s39% [5 chromium-codecs-ffmpeg-extra 899 kB/999 kB 90%]                            233 kB/s 17s42% [Working]                                                                     233 kB/s 16s                                                                                              Get:6 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 libgtk-3-common all 3.18.9-1ubuntu3.3 [206 kB]
+42% [6 libgtk-3-common 0 B/206 kB 0%]                                             233 kB/s 16s43% [6 libgtk-3-common 128 kB/206 kB 62%]                                         233 kB/s 16s44% [6 libgtk-3-common 205 kB/206 kB 100%]                                        233 kB/s 16s45% [Working]                                                                     233 kB/s 16s                                                                                              Get:7 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 libgail-3-0 amd64 3.18.9-1ubuntu3.3 [21.2 kB]
+45% [7 libgail-3-0 0 B/21.2 kB 0%]                                                233 kB/s 16s47% [Working]                                                                     233 kB/s 16s                                                                                              Get:8 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 libgtk-3-0 amd64 3.18.9-1ubuntu3.3 [2,352 kB]
+47% [8 libgtk-3-0 0 B/2,352 kB 0%]                                                233 kB/s 16s49% [8 libgtk-3-0 128 kB/2,352 kB 5%]                                             233 kB/s 15s50% [8 libgtk-3-0 257 kB/2,352 kB 11%]                                            233 kB/s 14s52% [8 libgtk-3-0 391 kB/2,352 kB 17%]                                            233 kB/s 14s53% [8 libgtk-3-0 524 kB/2,352 kB 22%]                                            233 kB/s 13s55% [8 libgtk-3-0 646 kB/2,352 kB 27%]                                            233 kB/s 13s56% [8 libgtk-3-0 774 kB/2,352 kB 33%]                                            221 kB/s 13s58% [8 libgtk-3-0 902 kB/2,352 kB 38%]                                            221 kB/s 12s59% [8 libgtk-3-0 1,031 kB/2,352 kB 44%]                                          221 kB/s 12s60% [8 libgtk-3-0 1,161 kB/2,352 kB 49%]                                          221 kB/s 11s62% [8 libgtk-3-0 1,290 kB/2,352 kB 55%]                                          221 kB/s 11s63% [8 libgtk-3-0 1,419 kB/2,352 kB 60%]                                          221 kB/s 10s65% [8 libgtk-3-0 1,549 kB/2,352 kB 66%]                                           221 kB/s 9s66% [8 libgtk-3-0 1,678 kB/2,352 kB 71%]                                           221 kB/s 9s68% [8 libgtk-3-0 1,808 kB/2,352 kB 77%]                                           221 kB/s 8s69% [8 libgtk-3-0 1,938 kB/2,352 kB 82%]                                           221 kB/s 8s71% [8 libgtk-3-0 2,067 kB/2,352 kB 88%]                                           221 kB/s 7s72% [8 libgtk-3-0 2,196 kB/2,352 kB 93%]                                           221 kB/s 6s74% [8 libgtk-3-0 2,324 kB/2,352 kB 99%]                                           258 kB/s 5s76% [Working]                                                                      258 kB/s 5s                                                                                              Get:9 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 apt-transport-https amd64 1.2.20 [26.1 kB]
+76% [9 apt-transport-https 3,884 B/26.1 kB 15%]                                    258 kB/s 5s77% [Waiting for headers]                                                          258 kB/s 5s                                                                                              Get:10 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 cifs-utils amd64 2:6.4-1ubuntu1.1 [74.5 kB]
+77% [10 cifs-utils 2,483 B/74.5 kB 3%]                                             258 kB/s 5s78% [10 cifs-utils 73.8 kB/74.5 kB 99%]                                            258 kB/s 4s80% [Waiting for headers]                                                          258 kB/s 4s                                                                                              Get:11 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 gir1.2-gtk-3.0 amd64 3.18.9-1ubuntu3.3 [188 kB]
+80% [11 gir1.2-gtk-3.0 1,082 B/188 kB 1%]                                          258 kB/s 4s81% [11 gir1.2-gtk-3.0 128 kB/188 kB 68%]                                          258 kB/s 4s83% [Waiting for headers]                                                          258 kB/s 4s                                                                                              Get:12 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 libgtk-3-bin amd64 3.18.9-1ubuntu3.3 [53.7 kB]
+83% [12 libgtk-3-bin 1,084 B/53.7 kB 2%]                                           258 kB/s 4s85% [Waiting for headers]                                                          258 kB/s 3s                                                                                              Get:13 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 linux-libc-dev amd64 4.4.0-75.96 [844 kB]
+85% [13 linux-libc-dev 278 B/844 kB 0%]                                            258 kB/s 3s91% [13 linux-libc-dev 487 kB/844 kB 58%]                                          258 kB/s 2s                                                                                              Get:14 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 thermald amd64 1.5-2ubuntu4 [187 kB]
+96% [14 thermald 16 B/187 kB 0%]                                                   258 kB/s 0s99% [14 thermald 186 kB/187 kB 99%]                                                258 kB/s 0s100% [Working]                                                                     258 kB/s 0s                                                                                              Fetched 6,953 kB in 28s (247 kB/s)
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 198734 files and directories currently installed.)
+Preparing to unpack .../libapt-pkg5.0_1.2.20_amd64.deb ...
+Unpacking libapt-pkg5.0:amd64 (1.2.20) over (1.2.19) ...
+Processing triggers for libc-bin (2.23-0ubuntu7) ...
+Setting up libapt-pkg5.0:amd64 (1.2.20) ...
+Processing triggers for libc-bin (2.23-0ubuntu7) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 198734 files and directories currently installed.)
+Preparing to unpack .../libapt-inst2.0_1.2.20_amd64.deb ...
+Unpacking libapt-inst2.0:amd64 (1.2.20) over (1.2.19) ...
+Processing triggers for libc-bin (2.23-0ubuntu7) ...
+Setting up libapt-inst2.0:amd64 (1.2.20) ...
+Processing triggers for libc-bin (2.23-0ubuntu7) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 198734 files and directories currently installed.)
+Preparing to unpack .../archives/apt_1.2.20_amd64.deb ...
+Unpacking apt (1.2.20) over (1.2.19) ...
+Processing triggers for libc-bin (2.23-0ubuntu7) ...
+Processing triggers for man-db (2.7.5-1) ...
+Setting up apt (1.2.20) ...
+Processing triggers for libc-bin (2.23-0ubuntu7) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 198734 files and directories currently installed.)
+Preparing to unpack .../apt-utils_1.2.20_amd64.deb ...
+Unpacking apt-utils (1.2.20) over (1.2.19) ...
+Preparing to unpack .../chromium-codecs-ffmpeg-extra_58.0.3029.81-0ubuntu0.16.04.1277_amd64.deb ...
+Unpacking chromium-codecs-ffmpeg-extra (58.0.3029.81-0ubuntu0.16.04.1277) over (57.0.2987.98-0ubuntu0.16.04.1276) ...
+Preparing to unpack .../libgtk-3-common_3.18.9-1ubuntu3.3_all.deb ...
+Unpacking libgtk-3-common (3.18.9-1ubuntu3.3) over (3.18.9-1ubuntu3.2) ...
+Processing triggers for man-db (2.7.5-1) ...
+Processing triggers for libglib2.0-0:i386 (2.48.2-0ubuntu1) ...
+Processing triggers for libglib2.0-0:amd64 (2.48.2-0ubuntu1) ...
+Setting up libgtk-3-common (3.18.9-1ubuntu3.3) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 198734 files and directories currently installed.)
+Preparing to unpack .../libgail-3-0_3.18.9-1ubuntu3.3_amd64.deb ...
+Unpacking libgail-3-0:amd64 (3.18.9-1ubuntu3.3) over (3.18.9-1ubuntu3.2) ...
+Preparing to unpack .../libgtk-3-0_3.18.9-1ubuntu3.3_amd64.deb ...
+Unpacking libgtk-3-0:amd64 (3.18.9-1ubuntu3.3) over (3.18.9-1ubuntu3.2) ...
+Processing triggers for libc-bin (2.23-0ubuntu7) ...
+Setting up libgtk-3-0:amd64 (3.18.9-1ubuntu3.3) ...
+Processing triggers for libc-bin (2.23-0ubuntu7) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 198734 files and directories currently installed.)
+Preparing to unpack .../apt-transport-https_1.2.20_amd64.deb ...
+Unpacking apt-transport-https (1.2.20) over (1.2.19) ...
+Preparing to unpack .../cifs-utils_2%3a6.4-1ubuntu1.1_amd64.deb ...
+Unpacking cifs-utils (2:6.4-1ubuntu1.1) over (2:6.4-1ubuntu1) ...
+Preparing to unpack .../gir1.2-gtk-3.0_3.18.9-1ubuntu3.3_amd64.deb ...
+Unpacking gir1.2-gtk-3.0:amd64 (3.18.9-1ubuntu3.3) over (3.18.9-1ubuntu3.2) ...
+Preparing to unpack .../libgtk-3-bin_3.18.9-1ubuntu3.3_amd64.deb ...
+Leaving 'diversion of /usr/sbin/update-icon-caches to /usr/sbin/update-icon-caches.gtk2 by libgtk-3-bin'
+Leaving 'diversion of /usr/share/man/man8/update-icon-caches.8.gz to /usr/share/man/man8/update-icon-caches.gtk2.8.gz by libgtk-3-bin'
+Unpacking libgtk-3-bin (3.18.9-1ubuntu3.3) over (3.18.9-1ubuntu3.2) ...
+Preparing to unpack .../linux-libc-dev_4.4.0-75.96_amd64.deb ...
+Unpacking linux-libc-dev:amd64 (4.4.0-75.96) over (4.4.0-72.93) ...
+Preparing to unpack .../thermald_1.5-2ubuntu4_amd64.deb ...
+Unpacking thermald (1.5-2ubuntu4) over (1.5-2ubuntu3) ...
+Processing triggers for man-db (2.7.5-1) ...
+Processing triggers for dbus (1.10.6-1ubuntu3.3) ...
+Processing triggers for ureadahead (0.100.0-19) ...
+ureadahead will be reprofiled on next reboot
+Processing triggers for systemd (229-4ubuntu16) ...
+Setting up apt-utils (1.2.20) ...
+Setting up chromium-codecs-ffmpeg-extra (58.0.3029.81-0ubuntu0.16.04.1277) ...
+Setting up libgail-3-0:amd64 (3.18.9-1ubuntu3.3) ...
+Setting up apt-transport-https (1.2.20) ...
+Setting up cifs-utils (2:6.4-1ubuntu1.1) ...
+Setting up gir1.2-gtk-3.0:amd64 (3.18.9-1ubuntu3.3) ...
+Setting up libgtk-3-bin (3.18.9-1ubuntu3.3) ...
+Setting up linux-libc-dev:amd64 (4.4.0-75.96) ...
+Setting up thermald (1.5-2ubuntu4) ...
+Processing triggers for libc-bin (2.23-0ubuntu7) ...
+]0;dicryptor@dicryptor-VirtualBox ~/assignment1[01;32mdicryptor@dicryptor-VirtualBox[00m [01;34m~/assignment1 $[00m 
+]0;dicryptor@dicryptor-VirtualBox ~/assignment1[01;32mdicryptor@dicryptor-VirtualBox[00m [01;34m~/assignment1 $[00m 
+]0;dicryptor@dicryptor-VirtualBox ~/assignment1[01;32mdicryptor@dicryptor-VirtualBox[00m [01;34m~/assignment1 $[00m 
+]0;dicryptor@dicryptor-VirtualBox ~/assignment1[01;32mdicryptor@dicryptor-VirtualBox[00m [01;34m~/assignment1 $[00m sudo apt-get install mysql-server msql_secure_in stallation mysql_install_db
+Reading package lists... 0%Reading package lists... 100%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree       
+Reading state information... 0%Reading state information... 0%Reading state information... Done
+E: Unable to locate package msql_secure_installation
+E: Unable to locate package mysql_install_db
+]0;dicryptor@dicryptor-VirtualBox ~/assignment1[01;32mdicryptor@dicryptor-VirtualBox[00m [01;34m~/assignment1 $[00m exit
+exit
+
+Script done on Thu 27 Apr 2017 04:01:33 PM

@@ -1,0 +1,11 @@
+Script started on Sun 30 Apr 2017 11:11:01 AM
+]0;dicryptor@dicryptor-VirtualBox ~[01;32mdicryptor@dicryptor-VirtualBox[00m [01;34m~ $[00m cd assignment1/
+]0;dicryptor@dicryptor-VirtualBox ~/assignment1[01;32mdicryptor@dicryptor-VirtualBox[00m [01;34m~/assignment1 $[00m mkdir pdfs
+]0;dicryptor@dicryptor-VirtualBox ~/assignment1[01;32mdicryptor@dicryptor-VirtualBox[00m [01;34m~/assignment1 $[00m find . -type f -name "*.pdf" -exec cp {} ~/assig nment1/pdfs/ \;[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C {} ~/assignm[1P[A]0;dicryptor@dicryptor-VirtualBox ~/assignment1[01;32mdicryptor@dicryptor-VirtualBox[00m [01;34m~/assignment1 $[00m [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C {} ~/assignme[1P[A]0;dicryptor@dicryptor-VirtualBox ~/assignment1[01;32mdicryptor@dicryptor-VirtualBox[00m [01;34m~/assignment1 $[00m [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cm {} ~/assignm[1@e[A]0;dicryptor@dicryptor-VirtualBox ~/assignment1[01;32mdicryptor@dicryptor-VirtualBox[00m [01;34m~/assignment1 $[00m [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cv {} ~/assign[1@m[A]0;dicryptor@dicryptor-VirtualBox ~/assignment1[01;32mdicryptor@dicryptor-VirtualBox[00m [01;34m~/assignment1 $[00m [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+]0;dicryptor@dicryptor-VirtualBox ~/assignment1[01;32mdicryptor@dicryptor-VirtualBox[00m [01;34m~/assignment1 $[00m ls pdfs
+L3 Assembly - Quick Guide.pdf  Singapore April 2017 - March 2018.pdf
+]0;dicryptor@dicryptor-VirtualBox ~/assignment1[01;32mdicryptor@dicryptor-VirtualBox[00m [01;34m~/assignment1 $[00m exit
+exit
+
+Script done on Sun 30 Apr 2017 11:11:41 AM

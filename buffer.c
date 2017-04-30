@@ -48,3 +48,4 @@ int main(int argc, char *argv[])
     }
     printf("Total count is %d\n", total_count);
     printf("The buffer was filled %d times\n", buf_filled);
+}

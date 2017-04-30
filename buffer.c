@@ -16,9 +16,10 @@ int main(int argc, char *argv[])
     int in_fd, out_fd; /* Variable declaration and data type, integer */
     int rd_size = 1, wr_size; /* Variable declaration and initialization */
     char buf[BUF_SIZE]; /* Create a character array of size BUF_SIZE(500) */
-    int total_count, buf_filled = 0;
+    int total_count = 0; /* To keep track of the total number of bytes */
+    int buf_filled = 0; /* To keep track of how many times the bufer was filled*/
 
-    if (argc != 3) /* if argument count is less than 3*/
+    if (argc != 3) /* if argument count  less than 3*/
         exit(1); /* Exit program with error code 1 */
 
     in_fd = open(argv[1], O_RDONLY); /* Initialise second argument to variable. Open file with read only permissions */
@@ -32,12 +33,13 @@ int main(int argc, char *argv[])
     while (rd_size > 0) { /* while there is stuff to read from input file do...*/
         rd_size = read(in_fd, buf, BUF_SIZE); /* read data from file, store in buf array, read up to BUF_SIZE bytes before truncating */
         total_count += rd_size;
-        if (rd_size == 500)
-            printf("Buffer is filled")
+        //printf("Read in size is %d\n", rd_size);
+        if (rd_size == BUF_SIZE)
+            buf_filled += 1;
         if (rd_size < 0) /* if there is nothing to read */
             exit(4); /* Exit program with error code 4 */
 
-        wr_size = write(out_fd, buf, BUF_SIZE); /* write data to output file, buffer to read from, number of bytes to write */
+        wr_size = write(out_fd, buf, rd_size); /* write data to output file, buffer to read from, number of bytes to write */
         if (wr_size <= 0) { /* Check if there is anything more to write to file*/
             close(in_fd); /* if nothing, close out the read in file */
             close(out_fd); /* if nothing, close out the write out file */
@@ -45,4 +47,4 @@ int main(int argc, char *argv[])
         }
     }
     printf("Total count is %d\n", total_count);
-}
+    printf("The buffer was filled %d times\n", buf_filled);

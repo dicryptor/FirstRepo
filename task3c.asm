@@ -69,7 +69,7 @@ section .data
         achar           db 'A'
         newLineMsg      db 0xA, 0xD
         newLineLen      equ $-newLineMsg
-        msg1    db      "Enter number of times to print message ", 0xA, 0xD
+        msg1    db      "Enter number of times to print message (1-9 only)", 0xA, 0xD
         len1    equ $-msg1
 
 section .bss
